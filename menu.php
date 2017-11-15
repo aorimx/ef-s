@@ -24,14 +24,15 @@
       					</nav>
       				</div>-->
           </div>
-          <div id="navbar" class="navbar-collapse collapse">
-            <ul itemscope itemtype="http://www.schema.org/SiteNavigationElement" class="nav navbar-nav navbar-cel">
+          <div id="navbar" class="navbar-collapse collapse" style="overflow: hidden; max-height: 424px !important;">
+            <ul itemscope itemtype="http://www.schema.org/SiteNavigationElement" class="nav navbar-nav navbar-cel" style="margin: 8px 0px !important;">
               <li>
                 <a class="navbar-brand marca-nocel hidden-xs hidden-sm" href="index.php"><img src="img/logo-menu.png"></a>
               </li>
               <li class="arrow_box"><a itemprop="url" href="index.php"><span itemprop="name">Inicio</span></a></li>
               <li class="arrow_box"><a itemprop="url" href="nosotros.php"><span itemprop="name">Nosotros</span></a></li>
               <li class="arrow_box"><a itemprop="url" href="productos.php"><span itemprop="name">Productos</span></a></li>
+              <li class="arrow_box"><a itemprop="url" href="certificaciones.php"><span itemprop="name">Certificaciones</span></a></li>
               <li class="arrow_box"><a itemprop="url" href="proveedores.php"><span itemprop="name">Proveedores</span></a></li>
               <li class="arrow_box"><a itemprop="url" href="contacto.php"><span itemprop="name">Contacto</span></a></li>
               <!--<li class="iconos-menu hidden-xs hidden-sm"><a href="#"><img class="lupaMenu" src="img/lupa.png"></a></li>

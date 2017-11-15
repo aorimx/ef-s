@@ -786,8 +786,8 @@ footer{
 	    }
 
 			.container-fluid>.navbar-collapse, .container-fluid>.navbar-header, .container>.navbar-collapse, .container>.navbar-header {
-			    margin-right: -15px;
-			    margin-left: -15px;
+			    margin-right: 0;
+			    margin-left: 0;
 			}
 
 			#navbar{
