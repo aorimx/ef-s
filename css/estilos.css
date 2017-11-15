@@ -57,7 +57,7 @@ a:hover, a:active{
 }
 
 .table>tbody>tr>td, .table>tbody>tr>th, .table>tfoot>tr>td, .table>tfoot>tr>th, .table>thead>tr>td, .table>thead>tr>th {
-    padding: 8px;
+    padding: 8px 4px;
     line-height: 1.42857143;
     vertical-align: top;
     border-top: 0px solid #ddd !important;
@@ -65,8 +65,9 @@ a:hover, a:active{
 }
 
 .table{
-	width: 90%;
-	margin: auto;
+    width: 100%;
+    margin: auto;
+    margin-top: 40px;
 }
 
 .separador-menu {
@@ -135,6 +136,7 @@ a:hover, a:active{
     background: #ffffff !important;
     color: #ffffff;
 }
+
 
 .loader {
     position: fixed;
@@ -475,10 +477,20 @@ a:hover, a:active{
 }
 
 .titulo-cotizaciones{
-  font-size: 38px;
-  color: #808285;
-  width: 90%;
+  font-size: 48px;
+  color: #c2c3c5;
+  font-family: 'Gothaml';
+  letter-spacing: 3px;
+  font-weight: bold;
+  width: 100%;
   margin: auto;
+  margin-bottom: 64px;
+  margin-top: 32px;
+}
+@media screen and (max-width: 600px){
+    .titulo-cotizaciones{
+        font-size: 40px;
+      }
 }
 
 .pasos-cotizaciones{
@@ -487,6 +499,9 @@ a:hover, a:active{
 
 .pasos-cotizaciones p{
   color: #008129;
+  font-family: 'Gothaml';
+  font-weight: bold;
+
 }
 
 /* Fin estilos cotizaciones */
