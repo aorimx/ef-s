@@ -1,5 +1,10 @@
 
 @font-face {
+	font-family: 'Gothaml';
+	src: url('../fonts/GothamLight.ttf') format('truetype');
+
+}
+@font-face {
 	font-family: 'GothamB';
 	src: url('../fonts/GothamBold.eot');
 	src: url('../fonts/GothamBold.eot?#iefix') format('embedded-opentype'),
