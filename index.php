@@ -112,44 +112,39 @@
 
     <div class="row seccion-servicios">
       <div class="padding-home">
-        <h2 class="texto-centro titulos-secciones">Servicios</h2>
-      </div>
-    </div>
-    <div class="row contenedor-servicios-gris">
-      <div class="col-xs-12 col-sm-6 sin-padding">
-        <img class="img-full" src="img/servicios-1.png">
-        <div class="contenedor-servicios visible-xs">
-          <h2 class="p-a">Mantenimiento _</h2>
-          <p class="parrafos p-a">EFIRSA ayuda a mantener sus equipos en excelente estado ya que realiza de manera mensual ó bimestral el servicio de Mantenimiento Preventivo y Correctivo de Elevadores y Escalera Eléctricas. Programa y controla las actividades de mantenimiento por los 365 días del año...</p>
-          <p class="leer-mas-p p-a texto-derecha"><a class="texto-verde enlaces-verdes" href="#">Leer más</a></p>
-        </div>
-      </div>
-      <div class="col-xs-12 col-sm-6 sin-padding">
-        <img class="img-full" src="img/servicios-2.png">
-        <div class="contenedor-servicios visible-xs">
-          <h2 class="p-a">Modernización _</h2>
-          <p class="parrafos p-a">Realizamos la modernización de tus elevadores o escaleras eléctricas, aprovechando tu equipo y materiales lo mayor posible, todo tiene un ciclo de vida, incluso con el mejor cuidado un elevador que lleva miles de kilómetros, haciendo cientos de viajes durante varias décadas...</p>
-          <p class="leer-mas-p p-a texto-derecha"><a class="texto-verde enlaces-verdes" href="#">Leer más</a></p>
-        </div>
+        <h2 class="texto-centro titulos-secciones" style="letter-spacing: 2px;">Servicios</h2>
       </div>
     </div>
   </div>
   <div>
-    <div class="container gris-mantenimiento">
-      <div class="col-xs-12 col-sm-6 sin-padding">
-        <div class="contenedor-servicios hidden-xs">
-          <h2>Mantenimiento _</h2>
-          <p class="parrafos">EFIRSA ayuda a mantener sus equipos en excelente estado ya que realiza de manera mensual ó bimestral el servicio de Mantenimiento Preventivo y Correctivo de Elevadores y Escalera Eléctricas. Programa y controla las actividades de mantenimiento por los 365 días del año...</p>
-          <p class="leer-mas-p texto-derecha"><a class="texto-verde enlaces-verdes" href="#">Leer más</a></p>
+    <div class="container gris-mantenimiento service-flex">
+      <div class="servicesInicio">
+        <div class="col-xs-12 col-sm-3 sin-padding serviceResp">
+          <div class="contenedor-servicios">
+            <h2>Venta _</h2>
+          </div>
+          <img src="img/servicios/Venta.png" alt="">
+        </div>
+        <div class="col-xs-12 col-sm-3 sin-padding serviceResp">
+          <div class="contenedor-servicios">
+            <h2>Mantenimiento _</h2>
+          </div>
+          <img src="img/servicios/Mantenimiento.png" alt="">
+        </div>
+        <div class="col-xs-12 col-sm-3 sin-padding serviceResp">
+          <div class="contenedor-servicios ">
+            <h2>Modernización _</h2>
+          </div>
+          <img src="img/servicios/Modernización.png" alt="">
+        </div>
+        <div class="col-xs-12 col-sm-3 sin-padding serviceResp">
+          <div class="contenedor-servicios">
+            <h2>Reparación _</h2>
+          </div>
+          <img src="img/servicios/Reparación.png" alt="">
         </div>
       </div>
-      <div class="col-xs-12 col-sm-6 sin-padding">
-        <div class="contenedor-servicios hidden-xs">
-          <h2>Modernización _</h2>
-          <p class="parrafos">Realizamos la modernización de tus elevadores o escaleras eléctricas, aprovechando tu equipo y materiales lo mayor posible, todo tiene un ciclo de vida, incluso con el mejor cuidado un elevador que lleva miles de kilómetros, haciendo cientos de viajes durante varias décadas...</p>
-          <p class="leer-mas-p texto-derecha"><a class="texto-verde enlaces-verdes" href="#">Leer más</a></p>
-        </div>
-      </div>
+      <h2 class="textService">DE ELEBADORES DE USO <STRONG>DOMÉSTICO E INDUSTRIAL</STRONG></h2>
     </div>
   </div>
   <div class="container">
