@@ -455,14 +455,24 @@ a:hover, a:active{
   border: 1px solid #828487;
 }
 
-.boton-contacto, .boton-contacto:hover, .boton-contacto:active, .boton-contacto:focus{
-  background-color: #C0C2C3;
+.boton-contacto, .boton-contacto:active, .boton-contacto:focus{
+  background-color: #808285;
   color: white;
+  letter-spacing: 3px;
+  font-weight: bold;
+  font-family: 'Gothaml';
+  padding: 8px 16px;
+  margin-top: 16px;
+}
+.boton-contacto:hover{
+    background-color: #fff;
+    color: #808285;
+    border-color: #808285;
 }
 
  #map {
   width: 100%;
-  height: 400px;
+  height: 424px;
   border: 1px solid #746a24;
   border-radius: 3px;
   margin-top: 10px;
@@ -627,6 +637,23 @@ a:hover, a:active{
 
 /* Estilos footer */
 
+.footerContacto{
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+}
+@media screen and (max-width: 900px){
+    .footerContacto{
+        height: 90%;
+    }
+}
+@media screen and (max-width: 600px){
+    .footerContacto{
+        height: 60%;
+    }
+}
 footer{
     background-color: #58595b;
     background-size: 100%;
@@ -658,6 +685,9 @@ footer{
 
 .copyright{
   text-align: right;
+  font-family: 'Gothaml';
+
+  font-weight: bold;
 }
 
 .logo-footer{

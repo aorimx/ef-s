@@ -22,7 +22,7 @@
           </div>
           <div class="form-group">
             <label for="mensaje">Mensaje:</label>
-            <textarea class="form-control campos-contacto" rows="5" id="mensaje"></textarea>
+            <textarea class="form-control campos-contacto" rows="5" id="mensaje" style="overflow: hidden;"></textarea>
           </div>
           <button type="submit" class="btn btn-default boton-contacto">ENVIAR</button>
         </form>
