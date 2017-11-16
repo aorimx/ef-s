@@ -1,5 +1,5 @@
 <div class="navbar-fixed-top container-fluid contenedor-menu">
-<nav class="navbar navbar-default">
+<nav class="navbar navbar-default" style="height: 67px;">
         <div class="container-fluid sin-padding">
           <div class="navbar-header">
             <a class="navbar-brand marca-cel visible-xs visible-sm" href="index.php"><img class="logo-movil" src="img/logo-movil2.png"></a>
@@ -25,7 +25,7 @@
       				</div>-->
           </div>
           <div id="navbar" class="navbar-collapse collapse" style="overflow: hidden; max-height: 424px !important;">
-            <ul itemscope itemtype="http://www.schema.org/SiteNavigationElement" class="nav navbar-nav navbar-cel" style="margin: 8px 0px !important;">
+            <ul itemscope itemtype="http://www.schema.org/SiteNavigationElement" class="nav navbar-nav navbar-cel" ">
               <li>
                 <a class="navbar-brand marca-nocel hidden-xs hidden-sm" href="index.php"><img src="img/logo-menu.png"></a>
               </li>

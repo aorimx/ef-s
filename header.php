@@ -35,6 +35,7 @@
   <link rel="stylesheet" href="css/bootstrap.min.css">
   <link rel="stylesheet" href="css/certificaciones.css">
   <link rel="stylesheet" href="css/inicio.css">
+  <link rel="stylesheet" href="css/nosotros.css">
   <link rel="stylesheet" href="css/estilos.css?ver=<?php echo filemtime('css/estilos.css'); ;?>">
   <link rel="stylesheet" href="css/style1.css?ver=<?php echo filemtime('css/style1.css'); ;?>">
   <script src="js/jquery.js"></script>
