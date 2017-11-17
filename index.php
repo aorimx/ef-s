@@ -29,7 +29,7 @@
   </div>
   <div class="container-fluid">
     <div class="row separador-logo">
-      <img class="centrar-img efirsa-home" src="img/logo-normal.png">
+      <img class="centrar-img efirsa-home" src="img/logos/logoIndex.png">
     </div>
   </div>
 

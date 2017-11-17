@@ -182,7 +182,7 @@ a:hover, a:active{
 }
 
 .marca-nocel img{
-	width: 75%;
+	width: 76%;
 	margin: auto;
 }
 
@@ -206,6 +206,16 @@ a:hover, a:active{
 
 .navbar-cel .arrow_box{
 	margin-top: 10px;
+}
+@media screen and (max-width: 901px){
+
+
+    .navbar-cel .arrow_box{
+        border: solid 1px transparent;
+        border-bottom-color: white;
+        width: 211px;
+        text-align: right;
+    }
 }
 
 .navbar-cel li{
@@ -345,8 +355,8 @@ a:hover, a:active{
 }
 
 .efirsa-home{
-  padding: 50px 0px;
-  max-width: 100%;
+  padding: 16px 0px;
+  max-width: 240px;
 }
 
 .padding-home{
@@ -476,6 +486,14 @@ a:hover, a:active{
   border: 1px solid #746a24;
   border-radius: 3px;
   margin-top: 10px;
+}
+
+@media screen and (max-width: 600px){
+    #map {
+        width: 100%;
+        height: 224px;
+        margin-top: 40px;
+      }
 }
 
 /* Fin estilos contacto */
@@ -697,8 +715,9 @@ footer{
 }
 
 .logo-movil-footer{
-	  max-width: 100px;
-    margin-bottom: 60px;
+	  max-width: 168px;
+    position: relative;
+    margin-bottom: 48px;
 }
 
 footer{
@@ -829,7 +848,11 @@ footer{
 			.navbar .navbar-nav {
 	        display: inline-block;
 			    float: none;
-			    vertical-align: top;
+                vertical-align: top;
+                padding-right: 56px;
+                display: flex;
+                flex-direction: column;
+                align-items: flex-end;
 			}
 
 	    .navbar .navbar-collapse {
@@ -906,7 +929,7 @@ footer{
 		width: 100%;
 	}
 	.efirsa-home{
-    max-width: 65%;
+    max-width: 55%;
 	}
 	.centrar-footer{
 		text-align: center;
@@ -952,6 +975,14 @@ footer{
 .form-contacto{
     width: 80%;
     margin: auto;
+}
+@media screen and (max-width: 600px){
+    
+    .form-contacto{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
 }
 .productos-catalogo {
     padding: 40px 0px;
