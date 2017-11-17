@@ -116,30 +116,30 @@
       </div>
     </div>
   </div>
-  <div>
+  <div class="gris-mantenimiento ">
     <div class="container gris-mantenimiento service-flex">
       <div class="servicesInicio">
         <div class="col-xs-12 col-sm-3 sin-padding serviceResp">
           <div class="contenedor-servicios">
-            <h2>Venta _</h2>
+            <h2 class="servicios-item">Venta _</h2>
           </div>
           <img src="img/servicios/Venta.png" alt="">
         </div>
         <div class="col-xs-12 col-sm-3 sin-padding serviceResp">
           <div class="contenedor-servicios">
-            <h2>Mantenimiento _</h2>
+            <h2 class="servicios-item">Mantenimiento _</h2>
           </div>
           <img src="img/servicios/Mantenimiento.png" alt="">
         </div>
         <div class="col-xs-12 col-sm-3 sin-padding serviceResp">
           <div class="contenedor-servicios ">
-            <h2>Modernización _</h2>
+            <h2 class="servicios-item">Modernización _</h2>
           </div>
           <img src="img/servicios/Modernización.png" alt="">
         </div>
         <div class="col-xs-12 col-sm-3 sin-padding serviceResp">
           <div class="contenedor-servicios">
-            <h2>Reparación _</h2>
+            <h2 class="servicios-item">Reparación _</h2>
           </div>
           <img src="img/servicios/Reparación.png" alt="">
         </div>

@@ -343,8 +343,11 @@ a:hover, a:active{
 }
 
 .contenedor-servicios{
-  width: 90%;
-  margin: auto;
+  width: 100%;
+  margin: 24px auto;
+}
+.contenedor-servicios .servicios-item{
+    font-size: 24px
 }
 
 .contenedor-servicios-gris{
