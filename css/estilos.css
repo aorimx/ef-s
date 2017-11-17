@@ -946,7 +946,11 @@ footer{
 @media (max-width: 767px){
 	.img-full-767{
 		width: 100%;
-	}
+    }
+    .sinMargin{
+        margin-left: 0;
+        margin-right: 0;
+    }
 	.efirsa-home{
     max-width: 55%;
 	}
@@ -972,9 +976,10 @@ footer{
 .foto1 {
     float: right;
     max-width: 450px;
-    margin-left: 20px;
+    
     margin-bottom: 30px;
 }
+
 .div-proposito {
     padding: 20px 0px;
 }

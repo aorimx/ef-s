@@ -68,7 +68,7 @@
   </div>-->
 
 
-  <div class="row separador-logo">
+  <div class="row separador-logo sinMargin">
     <div class="container">
       <div class="div-diferencia">
         <div class="col-xs-12 col-lg-10 col-lg-offset-1">
