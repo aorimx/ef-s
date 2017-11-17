@@ -360,7 +360,9 @@ a:hover, a:active{
 .padding-home{
   padding: 30px 0px;
 }
-
+.padding-productos{
+  padding: 0 0px 30px 0;
+}
 .flecha-enlace{
   width: 20px;
 }
@@ -387,7 +389,13 @@ a:hover, a:active{
 .productos-catalogo{
   padding: 70px 0px;
 }
-
+.title-productos{
+    margin: 8px 0;
+}
+.title-productos .icon
+{
+    margin-right: 8px;
+}
 .img-productos{
 	cursor: pointer;
 }
