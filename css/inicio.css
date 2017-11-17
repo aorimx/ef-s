@@ -13,6 +13,10 @@
     margin-bottom: 40px;
     text-align: center;
     color: #808285;
+    font-weight: 100;
+}
+.textService .strong{
+    font-weight: 400;
 }
 
 

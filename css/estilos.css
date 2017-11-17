@@ -13,6 +13,23 @@
 	font-weight: bold;
 	font-style: normal;
 }
+@font-face {
+	font-family: 'GothamB';
+	src: url('../fonts/Gotham-Medium.etf');
+	src: url('../fonts/Gotham-Medium.ttf') format('truetype');
+	font-weight: 600;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'GothamB';
+	src: url('../fonts/Gotham-Book.eot');
+	src: url('../fonts/Gotham-Book.eot?#iefix') format('embedded-opentype'),
+		url('../fonts/Gotham-Book.woff') format('woff'),
+		url('../fonts/Gotham-Book.ttf') format('truetype');
+	font-weight: 500;
+	font-style: normal;
+}
 
 @font-face {
 	font-family: 'GothamB';
@@ -35,15 +52,6 @@
 	font-style: normal;
 }
 
-@font-face {
-	font-family: '../fonts/GothamB';
-	src: url('../fonts/Gotham-Book.eot');
-	src: url('../fonts/Gotham-Book.eot?#iefix') format('embedded-opentype'),
-		url('../fonts/Gotham-Book.woff') format('woff'),
-		url('../fonts/Gotham-Book.ttf') format('truetype');
-	font-weight: normal;
-	font-style: normal;
-}
 
 
 body{
@@ -345,8 +353,11 @@ a:hover, a:active{
 }
 
 .contenedor-servicios{
-  width: 90%;
-  margin: auto;
+  width: 100%;
+  margin: 24px auto;
+}
+.contenedor-servicios .servicios-item{
+    font-size: 24px
 }
 
 .contenedor-servicios-gris{
@@ -362,7 +373,9 @@ a:hover, a:active{
 .padding-home{
   padding: 30px 0px;
 }
-
+.padding-productos{
+  padding: 0 0px 30px 0;
+}
 .flecha-enlace{
   width: 20px;
 }
@@ -389,7 +402,13 @@ a:hover, a:active{
 .productos-catalogo{
   padding: 70px 0px;
 }
-
+.title-productos{
+    margin: 8px 0;
+}
+.title-productos .icon
+{
+    margin-right: 8px;
+}
 .img-productos{
 	cursor: pointer;
 }
