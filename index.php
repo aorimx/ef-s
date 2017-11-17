@@ -135,13 +135,13 @@
           <div class="contenedor-servicios ">
             <h2 class="servicios-item">Modernización _</h2>
           </div>
-          <img src="img/servicios/Modernización.png" alt="">
+          <img src="img/servicios/Modernizacion.png" alt="">
         </div>
         <div class="col-xs-12 col-sm-3 sin-padding serviceResp">
           <div class="contenedor-servicios">
             <h2 class="servicios-item">Reparación _</h2>
           </div>
-          <img src="img/servicios/Reparación.png" alt="">
+          <img src="img/servicios/Reparacion.png" alt="">
         </div>
       </div>
       <h2 class="textService">DE ELEBADORES DE USO <span class="strong">DOMÉSTICO E INDUSTRIAL</span></h2>
