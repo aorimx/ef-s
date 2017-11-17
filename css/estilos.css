@@ -942,6 +942,11 @@ footer{
     padding-bottom: 0px;
 }
 }
+@media screen and (max-width: 360px){
+    body{
+        font-size: 12px;
+    }
+}
 
 @media (max-width: 767px){
 	.img-full-767{
@@ -976,7 +981,7 @@ footer{
 .foto1 {
     float: right;
     max-width: 450px;
-    
+    margin-left: 0;
     margin-bottom: 30px;
 }
 
