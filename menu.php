@@ -41,14 +41,15 @@
                 <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><img class="carritoMenu" src="img/carrito.png"></a>
                 <ul class="dropdown-menu">
                   <li class="dropdown-header">Tu carrito está vacío</li>
-                  <li><a href="#"><img class="iconos-submenu" src="img/kart.png">Carrito</a></li>
+                  <!--Descomentar cuando se implementen las siguientes funciones-->
+                  <!--<li><a href="#"><img class="iconos-submenu" src="img/kart.png">Carrito</a></li>
                   <li role="separator" class="divider"></li>
                   <li><a href="#"><img class="iconos-submenu" src="img/heart.png">Favoritos</a></li>
                   <li role="separator" class="divider"></li>
                   <li><a href="#"><img class="iconos-submenu" src="img/tools.png">Cuenta</a></li>
                   <li role="separator" class="divider"></li>
                   <li><a href="#"><img class="iconos-submenu" src="img/profile.png">Iniciar sesión</a></li>
-                  <li role="separator" class="divider"></li>
+                  <li role="separator" class="divider"></li>-->
                 </ul>
               </li>
               <!--<li class="iconos-menu"><a href="#"><img class="bolsaMenu" src="img/bolsa.png"></a></li>-->
