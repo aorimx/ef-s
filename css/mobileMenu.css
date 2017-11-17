@@ -1,0 +1,23 @@
+.spanH{
+    display: block;
+    width: 40px;
+    height: 6px;
+    background: white;
+    border-radius: 10px;
+    margin: 4px;
+    transition: 1s;
+}
+
+.hmenu.active{
+    transform: rotate(360deg);
+}
+
+.hmenu.active span:nth-child(2){
+    transform: rotate(45deg) translateX(1px) translateY(10px);
+}
+.hmenu.active span:nth-child(3){
+    opacity: 0;
+}
+.hmenu.active span:nth-child(4){
+    transform: rotate(-45deg) translateX(0px) translateY(-11px);
+}

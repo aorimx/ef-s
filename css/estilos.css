@@ -1,5 +1,10 @@
 
 @font-face {
+	font-family: 'Gothaml';
+	src: url('../fonts/GothamLight.ttf') format('truetype');
+
+}
+@font-face {
 	font-family: 'GothamB';
 	src: url('../fonts/GothamBold.eot');
 	src: url('../fonts/GothamBold.eot?#iefix') format('embedded-opentype'),
@@ -52,7 +57,7 @@ a:hover, a:active{
 }
 
 .table>tbody>tr>td, .table>tbody>tr>th, .table>tfoot>tr>td, .table>tfoot>tr>th, .table>thead>tr>td, .table>thead>tr>th {
-    padding: 8px;
+    padding: 8px 4px;
     line-height: 1.42857143;
     vertical-align: top;
     border-top: 0px solid #ddd !important;
@@ -60,8 +65,9 @@ a:hover, a:active{
 }
 
 .table{
-	width: 90%;
-	margin: auto;
+    width: 100%;
+    margin: auto;
+    margin-top: 40px;
 }
 
 .separador-menu {
@@ -131,6 +137,7 @@ a:hover, a:active{
     color: #ffffff;
 }
 
+
 .loader {
     position: fixed;
     left: 0px;
@@ -175,7 +182,7 @@ a:hover, a:active{
 }
 
 .marca-nocel img{
-	width: 75%;
+	width: 76%;
 	margin: auto;
 }
 
@@ -199,6 +206,16 @@ a:hover, a:active{
 
 .navbar-cel .arrow_box{
 	margin-top: 10px;
+}
+@media screen and (max-width: 901px){
+
+
+    .navbar-cel .arrow_box{
+        border: solid 1px transparent;
+        border-bottom-color: white;
+        width: 211px;
+        text-align: right;
+    }
 }
 
 .navbar-cel li{
@@ -338,8 +355,8 @@ a:hover, a:active{
 }
 
 .efirsa-home{
-  padding: 50px 0px;
-  max-width: 100%;
+  padding: 16px 0px;
+  max-width: 240px;
 }
 
 .padding-home{
@@ -448,17 +465,35 @@ a:hover, a:active{
   border: 1px solid #828487;
 }
 
-.boton-contacto, .boton-contacto:hover, .boton-contacto:active, .boton-contacto:focus{
-  background-color: #C0C2C3;
+.boton-contacto, .boton-contacto:active, .boton-contacto:focus{
+  background-color: #808285;
   color: white;
+  letter-spacing: 3px;
+  font-weight: bold;
+  font-family: 'Gothaml';
+  padding: 8px 16px;
+  margin-top: 16px;
+}
+.boton-contacto:hover{
+    background-color: #fff;
+    color: #808285;
+    border-color: #808285;
 }
 
  #map {
   width: 100%;
-  height: 400px;
+  height: 424px;
   border: 1px solid #746a24;
   border-radius: 3px;
   margin-top: 10px;
+}
+
+@media screen and (max-width: 600px){
+    #map {
+        width: 100%;
+        height: 224px;
+        margin-top: 40px;
+      }
 }
 
 /* Fin estilos contacto */
@@ -470,10 +505,20 @@ a:hover, a:active{
 }
 
 .titulo-cotizaciones{
-  font-size: 38px;
-  color: #808285;
-  width: 90%;
+  font-size: 48px;
+  color: #c2c3c5;
+  font-family: 'Gothaml';
+  letter-spacing: 3px;
+  font-weight: bold;
+  width: 100%;
   margin: auto;
+  margin-bottom: 64px;
+  margin-top: 32px;
+}
+@media screen and (max-width: 600px){
+    .titulo-cotizaciones{
+        font-size: 40px;
+      }
 }
 
 .pasos-cotizaciones{
@@ -482,6 +527,9 @@ a:hover, a:active{
 
 .pasos-cotizaciones p{
   color: #008129;
+  font-family: 'Gothaml';
+  font-weight: bold;
+
 }
 
 /* Fin estilos cotizaciones */
@@ -516,9 +564,10 @@ a:hover, a:active{
 }
 
 .div-transportando h2{
-	color: white;
+    color: white;
+    margin-bottom: 24px;
 	font-weight: 100;
-	letter-spacing: 5px;
+	letter-spacing: 18px;
 	text-align: center;
     word-break: break-all;
 }
@@ -582,7 +631,7 @@ a:hover, a:active{
 
 .foto1{
 	float: right;
-	max-width: 450px;
+	max-width: 624px;
 	margin-left: 20px;
 }
 
@@ -591,7 +640,7 @@ a:hover, a:active{
     max-width: 450px;
     margin-right: 20px;
     margin-bottom: 40px;
-    margin-top: 15px;
+    margin-top: 34px;
 }
 
 .mapa-efirsa{
@@ -607,6 +656,23 @@ a:hover, a:active{
 
 /* Estilos footer */
 
+.footerContacto{
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+}
+@media screen and (max-width: 900px){
+    .footerContacto{
+        height: 90%;
+    }
+}
+@media screen and (max-width: 600px){
+    .footerContacto{
+        height: 60%;
+    }
+}
 footer{
     background-color: #58595b;
     background-size: 100%;
@@ -638,6 +704,9 @@ footer{
 
 .copyright{
   text-align: right;
+  font-family: 'Gothaml';
+
+  font-weight: bold;
 }
 
 .logo-footer{
@@ -646,8 +715,9 @@ footer{
 }
 
 .logo-movil-footer{
-	  max-width: 100px;
-    margin-bottom: 60px;
+	  max-width: 168px;
+    position: relative;
+    margin-bottom: 48px;
 }
 
 footer{
@@ -778,7 +848,11 @@ footer{
 			.navbar .navbar-nav {
 	        display: inline-block;
 			    float: none;
-			    vertical-align: top;
+                vertical-align: top;
+                padding-right: 56px;
+                display: flex;
+                flex-direction: column;
+                align-items: flex-end;
 			}
 
 	    .navbar .navbar-collapse {
@@ -786,8 +860,8 @@ footer{
 	    }
 
 			.container-fluid>.navbar-collapse, .container-fluid>.navbar-header, .container>.navbar-collapse, .container>.navbar-header {
-			    margin-right: -15px;
-			    margin-left: -15px;
+			    margin-right: 0;
+			    margin-left: 0;
 			}
 
 			#navbar{
@@ -855,7 +929,7 @@ footer{
 		width: 100%;
 	}
 	.efirsa-home{
-    max-width: 65%;
+    max-width: 55%;
 	}
 	.centrar-footer{
 		text-align: center;
@@ -901,6 +975,14 @@ footer{
 .form-contacto{
     width: 80%;
     margin: auto;
+}
+@media screen and (max-width: 600px){
+    
+    .form-contacto{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
 }
 .productos-catalogo {
     padding: 40px 0px;

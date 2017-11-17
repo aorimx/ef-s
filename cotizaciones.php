@@ -1,12 +1,8 @@
 <?php require 'header.php';?>
-  <div class="container-fluid">
-    <div class="row header-cotizaciones">
-      <h1 class="titulo-cotizaciones">Cotizaciones _</h1>
-    </div>
-  </div>
   <div class="container">
     <div class="row proveedores-catalogo">
       <div class="col-xs-12 col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2 col-lg-6 col-lg-offset-3">
+        <h1 class="titulo-cotizaciones">Cotizaciones</h1>
         <h2 class="p-a">Cita o llamada _</h2>
         <table class="table">
           <tbody>

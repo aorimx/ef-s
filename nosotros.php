@@ -6,11 +6,12 @@
   </div>
   <div class="container">
     <div class="row proveedores-catalogo">
-      <div class="col-xs-12 col-lg-10 col-lg-offset-1 div-historia">
-        <p class="p-a">Nuestro fundador y directos Aureliano Flores López inicio con la empresa SIMEYE la cual se dedicaba a los servicios de mantenimiento, posteriormente paso a convertirse en Elevadores de Occidente realizando la instalación de elevadores y escaleras marca Mitsubishi, poco despues la instalación de elevadores Italianos creando la marca Elevadores Familiares y de Restaurantes S.A. de C.V, finalmente se evoluciono a Efirsa S.A. de C.V. en el año 2010.</p>
+      <div class="col-xs-12 col-lg-10 col-lg-offset-1 div-historia divNosotros">
+        
+        <p class="p-a" style="font-size: 16px; width: 89%;">Nuestro fundador y directos Aureliano Flores López inicio con la empresa SIMEYE la cual se dedicaba a los servicios de mantenimiento, posteriormente paso a convertirse en Elevadores de Occidente realizando la instalación de elevadores y escaleras marca Mitsubishi, poco despues la instalación de elevadores Italianos creando la marca Elevadores Familiares y de Restaurantes S.A. de C.V, finalmente se evoluciono a Efirsa S.A. de C.V. en el año 2010.</p>
         <br>
-        <p class="p-a">
-          <img class="foto1 img-full-767" src="img/foto-nosotros1.png">
+        <img class="foto1 img-full-767 nosotrosImg" src="img/foto-nosotros1.png">
+        <p class="p-a txtNosotros">
           EFIRSA, Se especializa en todo tipo de ascensores y escaleras eléctricas desde hace más de 30 años. Ofreciendo soluciones innovadoras y ecológicamente eficientes; apoyando cada paso de nuestros clientes durante cada uno de sus proyectos; que parte desde el diseño, fabricación e instalación hasta el mantenimiento y modernización.
         <br><br>
         Hoy en día EFIRSA es una empresa Mexicana que cuenta con una gran cartera de clientes y sucursales en varios puntos de la República. (León, Vallarta, D.F. Los Cabos y San Luis Potosí), gracias a la innovación y tecnología de nivel mundial y al equipo de colaboradores altamente calificados.
@@ -22,22 +23,30 @@
   <div class="container-fluid">
     <div class="row separador-transportando div-transportando">
       <h2><img src="img/comillas-izquierda.png">TRANSPORTANDO LO MEJOR<img src="img/comillas-derecha.png"></h2>
-      <p>Para EFIRSA lo importante es poder brindarle los más altos niveles de <br> calidad garantizando seguridad y confianza</p>
+      <p>Para EFIRSA lo importante es poder brindarle los más altos <br>niveles de calidad garantizando seguridad y confianza</p>
     </div>
   </div>
   <div class="container">
       <div class="row div-proposito">
-        <div class="col-xs-12 col-lg-10 col-lg-offset-1 div-historia">
-          <h2 class="p-a">Nuestro propósito</h2>
-          <p class="p-a">Ser la primera Empresa Mexicana en Elevadores. Tenemos la capacidad de desarrollar, diseñar y crear equipos de sistemas verticales con tecno logía desarrollada y creada en México y competir con las grandes marcas como lo son Mitsubishi y Otis, con la ingeniería propia porque queríamos tener menores costos, tener refacciones en stock con menores tiempos de entrega. Así como un servicio más personalizado.</p>
+        <div class="col-xs-12 col-lg-10 col-lg-offset-1 div-historia divNosotros">
+          
+          <h2 class="p-a" style="margin-bottom: 32px;">Nuestro propósito</h2>
+          <p class="p-a" style="font-size: 16px;">Ser la primera Empresa Mexicana en Elevadores. Tenemos la capacidad de desarrollar, diseñar y crear equipos de sistemas verticales con tecno logía desarrollada y creada en México y competir con las grandes marcas como lo son Mitsubishi y Otis, con la ingeniería propia porque queríamos tener menores costos, tener refacciones en stock con menores tiempos de entrega. Así como un servicio más personalizado.</p>
 
-
-          <img class="foto2 img-full-767" src="img/foto-nosotros2.png">
-          <h2 class="p-a">Nuestro mercado</h2>
-          <p class="p-a">EFIRSA va dirigido a un mercado de servicios de uso residencial, hospitales, centros comerciales, departamentales, gubernamentales y estacionamientos, etc.</p>
-
-          <h2 class="p-a">Ventajas sobre la competencia</h2>
-          <p class="p-a">Los factores de insatisfacción son diversos comenzando por la falta de asesoramiento de espacios o necesidades que requiere la obra civil para la correcta instalación de un equipo, la imposibilidad de crear un equipo que pueda adaptarse a las medidas del cliente, la falta de atenciones de las empresas multinacionales y finalmente los atrasos en tiempos de entrega del producto. Y en otros casos los productos que adquieren por el ahorro de dinero genera una compra errónea con seguridades nulas. </p>
+          <img class="foto2 img-full-767 nosotrosImg2" src="img/nosotros/nosotros1.png">
+          <img class="foto2 img-full-767 nosotrosImg3" src="img/nosotros/nosotros2.png">
+          <div class="titleNos">
+            <h2 class="p-a" style="margin-right: 124px;">Nuestro mercado</h2>
+          </div>
+          <div class="txtDer">
+            <p class="p-a txtNosDer">EFIRSA va dirigido a un mercado de servicios de uso residencial, hospitales, centros comerciales, departamentales, gubernamentales y estacionamientos, etc.</p>
+          </div>
+          <div class="titleNos">
+           <h2 class="p-a" style="margin-right: 120px;">Ventajas sobre la <br>competencia</h2>
+          </div>
+          <div class="txtDer">
+            <p class="p-a txtNosDer">Los factores de insatisfacción son diversos comenzando por la falta de asesoramiento de espacios o necesidades que requiere la obra civil para la correcta instalación de un equipo, la imposibilidad de crear un equipo que pueda adaptarse a las medidas del cliente, la falta de atenciones de las empresas multinacionales y finalmente los atrasos en tiempos de entrega del producto. Y en otros casos los productos que adquieren por el ahorro de dinero genera una compra errónea con seguridades nulas. </p>
+          </div>
         </div>
       </div>
   </div>
