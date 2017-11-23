@@ -144,7 +144,7 @@
           <img src="img/servicios/Reparacion.png" alt="">
         </div>
       </div>
-      <h2 class="textService">DE ELEBADORES DE USO <span class="strong">DOMÉSTICO E INDUSTRIAL</span></h2>
+      <h2 class="textService">DE ELEVADORES DE USO <span class="strong">DOMÉSTICO E INDUSTRIAL</span></h2>
     </div>
   </div>
   <div class="container">
