@@ -47,7 +47,7 @@
   <div class="container">
     <div class="row">
       <div class="padding-productos">
-        <p class="texto-centro"><a class="texto-verde enlaces-verdes" href="cotizaciones.php">Ver catálogo <img class="flecha-enlace" src="img/flecha-verde.png"></a></p>
+        <p class="texto-centro"><a class="texto-verde enlaces-verdes" href="archivos/catalogoEfirsa.pdf">Ver catálogo <img class="flecha-enlace" src="img/flecha-verde.png"></a></p>
       </div>
     </div>
   </div>
