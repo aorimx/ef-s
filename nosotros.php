@@ -8,21 +8,20 @@
     <div class="row proveedores-catalogo">
       <div class="col-xs-12 col-lg-10 col-lg-offset-1 div-historia divNosotros">
         
-        <p class="p-a" style="font-size: 16px; width: 89%;">Nuestro fundador y directos Aureliano Flores López inicio con la empresa SIMEYE la cual se dedicaba a los servicios de mantenimiento, posteriormente paso a convertirse en Elevadores de Occidente realizando la instalación de elevadores y escaleras marca Mitsubishi, poco despues la instalación de elevadores Italianos creando la marca Elevadores Familiares y de Restaurantes S.A. de C.V, finalmente se evoluciono a Efirsa S.A. de C.V. en el año 2010.</p>
+        <p class="p-a" style="font-size: 16px; width: 89%;">Nuestro fundador y director Aureliano Flores López inició con la empresa SIMEYE la cual se dedicaba a los servicios de mantenimiento, posteriormente paso a convertirse en Elevadores de Occidente realizando la instalación de elevadores y escaleras marca Mitsubishi, poco después la instalación de elevadores Italianos creando la marca Elevadores Familiares y de Restaurantes S.A. de C.V, finalmente se evoluciono a Efirsa S.A. de C.V. en el año 2010.</p>
         <br>
         <img class="foto1 img-full-767 nosotrosImg" src="img/foto-nosotros1.png">
-        <p class="p-a txtNosotros">
-          EFIRSA, Se especializa en todo tipo de ascensores y escaleras eléctricas desde hace más de 30 años. Ofreciendo soluciones innovadoras y ecológicamente eficientes; apoyando cada paso de nuestros clientes durante cada uno de sus proyectos; que parte desde el diseño, fabricación e instalación hasta el mantenimiento y modernización.
+        <p class="p-a txtNosotros">EFIRSA se especializa en todo tipo de ascensores y escaleras eléctricas desde hace más de 30 años. Ofreciendo soluciones innovadoras y ecológicamente eficientes; apoyando cada paso de nuestros clientes durante cada uno de sus proyectos; que parte desde el diseño, fabricación e instalación hasta el mantenimiento y modernización.
         <br><br>
-        Hoy en día EFIRSA es una empresa Mexicana que cuenta con una gran cartera de clientes y sucursales en varios puntos de la República. (León, Vallarta, D.F. Los Cabos y San Luis Potosí), gracias a la innovación y tecnología de nivel mundial y al equipo de colaboradores altamente calificados.
+        Hoy en día EFIRSA es una empresa mexicana que cuenta con una gran cartera de clientes y sucursales en varios puntos de la República. (León, Vallarta, D.F. Los Cabos, San Luis Potosí, entre muchos otros), gracias a la innovación y tecnología de nivel mundial y al equipo de colaboradores altamente calificados.
         <br><br>
-        Mantenemos una infraestructura optimizada para ofrecer a nuestros clientes la mas alta calidad en productos que garantizan una precisión, confort, seguridad y durabilidad comprobadas.</p>
+        Mantenemos una infraestructura optimizada para ofrecer a nuestros clientes la más alta calidad en productos que garantizan precisión, confort, seguridad y durabilidad comprobadas.</p>
       </div>
     </div>
   </div>
   <div class="container-fluid">
     <div class="row separador-transportando div-transportando">
-      <h2><img src="img/comillas-izquierda.png">TRANSPORTANDO LO MEJOR<img src="img/comillas-derecha.png"></h2>
+      <h2><img src="img/comillas-izquierda.png">&nbsp;SOLUCIONES DE ALTURA<img src="img/comillas-derecha.png"></h2>
       <p>Para EFIRSA lo importante es poder brindarle los más altos <br>niveles de calidad garantizando seguridad y confianza</p>
     </div>
   </div>
@@ -31,7 +30,7 @@
         <div class="col-xs-12 col-lg-10 col-lg-offset-1 div-historia divNosotros">
           
           <h2 class="p-a" style="margin-bottom: 32px;">Nuestro propósito</h2>
-          <p class="p-a" style="font-size: 16px;">Ser la primera Empresa Mexicana en Elevadores. Tenemos la capacidad de desarrollar, diseñar y crear equipos de sistemas verticales con tecno logía desarrollada y creada en México y competir con las grandes marcas como lo son Mitsubishi y Otis, con la ingeniería propia porque queríamos tener menores costos, tener refacciones en stock con menores tiempos de entrega. Así como un servicio más personalizado.</p>
+          <p class="p-a" style="font-size: 16px;">Ser la primera empresa mexicana en elevadores. Tenemos la capacidad de desarrollar, diseñar y crear equipos de sistemas verticales con tecnología desarrollada y creada en México compitiendo con las grandes marcas como lo son Mitsubishi y Otis. Con ingeniería propia podemos tener menores costos y refacciones en stock con menores tiempos de entrega, así como un servicio más personalizado.</p>
 
           <img class="foto2 img-full-767 nosotrosImg2" src="img/nosotros/nosotros1.png">
           <img class="foto2 img-full-767 nosotrosImg3" src="img/nosotros/nosotros2.png">
@@ -39,13 +38,13 @@
             <h2 class="p-a" style="margin-right: 124px;">Nuestro mercado</h2>
           </div>
           <div class="txtDer">
-            <p class="p-a txtNosDer">EFIRSA va dirigido a un mercado de servicios de uso residencial, hospitales, centros comerciales, departamentales, gubernamentales y estacionamientos, etc.</p>
+            <p class="p-a txtNosDer">EFIRSA va dirigido a un mercado de servicios de uso residencial, hospitales, centros comerciales, departamentales, gubernamentales, estacionamientos, etc.</p>
           </div>
           <div class="titleNos">
            <h2 class="p-a" style="margin-right: 120px;">Ventajas sobre la <br>competencia</h2>
           </div>
           <div class="txtDer">
-            <p class="p-a txtNosDer">Los factores de insatisfacción son diversos comenzando por la falta de asesoramiento de espacios o necesidades que requiere la obra civil para la correcta instalación de un equipo, la imposibilidad de crear un equipo que pueda adaptarse a las medidas del cliente, la falta de atenciones de las empresas multinacionales y finalmente los atrasos en tiempos de entrega del producto. Y en otros casos los productos que adquieren por el ahorro de dinero genera una compra errónea con seguridades nulas. </p>
+            <p class="p-a txtNosDer">Los factores de insatisfacción son diversos, comenzando por la falta de asesoramiento de espacios o necesidades que requiere una obra civil para la correcta instalación de un equipo, la imposibilidad de crear un equipo que pueda adaptarse a las medidas del cliente, la falta de atención de las empresas multinacionales y finalmente los atrasos en tiempos de entrega del producto. En otros casos los productos que adquieren por el ahorro de dinero genera una compra errónea con seguridades nulas. </p>
           </div>
         </div>
       </div>
@@ -73,12 +72,12 @@
       <div class="div-diferencia">
         <div class="col-xs-12 col-lg-10 col-lg-offset-1">
           <h2 class="p-a">Nuestra diferencia</h2>
-          <p class="p-a">Los rubros de la respuesta anterior son los que hemos estado detectando y mismos que nos encargamos de cubrir, uno muy importante es que EFIRSA se encarga de todo el proceso desde que se cotiza un equipo, hasta la entrega del mismo y la competencia solo realiza pedidos y con subcontrataciones ejecuta las instalaciones por lo que genera ciertos conflictos con el producto final y en la mayoría de los casos durante el asesoramiento de obra. A la par de esto EFIRSA está creando sociedades con diversas mini empresas en la republica mexicana con la capacidad enriquecer el mercado Nacional en ventas tanto como en conocimientos de otras marcas.</p>
+          <p class="p-a">EFIRSA se encarga de todo el proceso, desde que se cotiza un equipo hasta la entrega del mismo, la competencia solo realiza pedidos y con subcontrataciones ejecuta las instalaciones, por lo que genera ciertos conflictos con el producto final y en la mayoría de los casos durante el asesoramiento de obra. A la par de esto, EFIRSA está creando sociedades con diversas mini empresas en la republica mexicana que tienen la capacidad de enriquecer el mercado nacional en ventas y aportar conocimientos de otras marcas. EFIRSA te ofrece:</p>
           <ul class="lista-diferencia">
             <li>Garantía de corrosión de 20 años en el acero inoxidable.</li>
             <li>Garantías de motor y sistemas electrónicos. </li>
             <li>Servicios de mantenimiento a menor costo en el mercado.</li>
-            <li>Desarrollaremos una red de socios comerciales de éxito y lealtad que nos permita ampliar nuestra capacidad de atención al cliente. </li>
+            <li>Desarrollo de una red de socios comerciales con éxito y lealtad que nos permita ampliar nuestra capacidad de atención al cliente.</li>
           </ul>
         </div>
       </div>
