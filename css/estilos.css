@@ -418,6 +418,13 @@ a:hover, a:active{
     filter: alpha(opacity=50);
 }
 
+@media (max-width: 768px){
+    .tRes{
+        width: 49% !important;
+    }
+}
+
+
 /* Fin estilos productos */
 
 /* Estilos proveedores */
@@ -492,11 +499,13 @@ a:hover, a:active{
   font-family: 'Gothaml';
   padding: 8px 16px;
   margin-top: 16px;
+  transition: all 0.2s ease-in-out;
 }
 .boton-contacto:hover{
     background-color: #fff;
     color: #808285;
     border-color: #808285;
+    transition: all 0.2s ease-in-out;
 }
 
  #map {
@@ -600,6 +609,11 @@ a:hover, a:active{
     margin: 0px 12px;
     padding-bottom: 5px;
 
+}
+
+.sinMargin{
+    margin-left: 0;
+    margin-right: 0;
 }
 
 .div-proposito{
@@ -736,11 +750,15 @@ footer{
 .logo-movil-footer{
 	  max-width: 168px;
     position: relative;
-    margin-bottom: 48px;
+    margin-bottom: 40px;
 }
 
 footer{
 	color: white;
+}
+
+.i-footer{
+    font-size: 16px;
 }
 
 .gris-footer{
@@ -755,7 +773,11 @@ footer{
 }
 
 .derecha-footer{
-	text-align: right;
+    text-align: right;
+}
+.derecha-footer p{
+    margin: 0;
+    font-size: 18px;
 }
 
 .derecha-footer a:hover, .derecha-footer a{
@@ -948,6 +970,17 @@ footer{
     }
 }
 
+@media screen and (max-width: 1080px){
+    .foto1 {
+        float: right;
+        max-width: 562px;
+        margin-left: 0;
+        margin-right: 158px
+    }
+    .txtNosotros{
+        width: 40%
+    }
+}
 @media (max-width: 767px){
 	.img-full-767{
 		width: 100%;
@@ -1013,6 +1046,7 @@ footer{
         justify-content: center;
     }
 }
+
 .productos-catalogo {
     padding: 40px 0px;
 }

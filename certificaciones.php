@@ -29,7 +29,7 @@
             <img class="imgC" src="img/certificaciones/Logo3.png">
           </div>
           <div class="textCertificaciones">
-            <p class="p-l">El Foro Internacional de Acreditación (IAF por sus siglas en inglés) es el maximo foro mundial de organismos de acreditación y organismos interesados en Evaluación de la Conformidad (organismos de certificación) en las áreas de sistemas de gestión, productos, servicios y personal.</p>
+            <p class="p-l">El Foro Internacional de Acreditación (IAF por sus siglas en inglés) es el máximo foro mundial de organismos que acreditan así como organismos interesados en Evaluación de la Conformidad (organismos de certificación) en las áreas de sistemas de gestión, productos, servicios y personal.</p>
           </div>
           
         </div>
@@ -38,7 +38,7 @@
             <img class="imgC" src="img/certificaciones/Logo4.png">
           </div>
           <div class="textCertificaciones">
-            <p class="p-l">CE, que constituye la prueba de que el producto se ha evaluado y cumple los requisitos de sguridad, sanidad y protección del medio ambiente exigidos por la UE. Es válido para los productos fabricados tanto dentro como fuera del EEE, cuya comercialización esté prevista dentro del mismo.</p>
+            <p class="p-l">CE, certifica que el producto se ha evaluado y que cumple con los requisitos de seguridad, sanidad y protección del medio ambiente exigidos por la UE. Es válido para los productos fabricados tanto dentro como fuera del EEE, cuya comercialización esté prevista dentro del mismo.</p>
           </div>
           
         </div>

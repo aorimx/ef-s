@@ -71,7 +71,7 @@
     <div class="container">
       <div class="div-diferencia">
         <div class="col-xs-12 col-lg-10 col-lg-offset-1">
-          <h2 class="p-a">Nuestra diferencia</h2>
+          <h2 class="p-a">Lo que nos diferencia de la competencia</h2>
           <p class="p-a">EFIRSA se encarga de todo el proceso, desde que se cotiza un equipo hasta la entrega del mismo, la competencia solo realiza pedidos y con subcontrataciones ejecuta las instalaciones, por lo que genera ciertos conflictos con el producto final y en la mayoría de los casos durante el asesoramiento de obra. A la par de esto, EFIRSA está creando sociedades con diversas mini empresas en la republica mexicana que tienen la capacidad de enriquecer el mercado nacional en ventas y aportar conocimientos de otras marcas. EFIRSA te ofrece:</p>
           <ul class="lista-diferencia">
             <li>Garantía de corrosión de 20 años en el acero inoxidable.</li>
@@ -149,7 +149,6 @@
       <div class="div-diferencia2">
         <div class="col-xs-12 col-lg-10 col-lg-offset-1 lista-clientes">
           <!--<div class="col-xs-12 col-sm-4">
-
             <table class="estados-pc">
               <tr>
                 <td>Durango<td>
@@ -196,114 +195,118 @@
                 <td> <td>
               </tr>
             </table>-
-
-
-
-
-
-
-
-
-
           </div>-->
-          <div class="col-xs-12 col-sm-12">
-            <table class="hidden-xs">
+          <div class="col-xs-12 col-sm-12 mapa">
+            <img src="img/nosotros/mapEfirsa.png" class="imgMapa img-responsive" alt="">
+            <img src="img/nosotros/mapTitle.png" class="titleMap img-responsive" alt="">
+            <h2 class="mapPresencia">PRESENCIA</h2>
+            <table class="hidden-xs tableMap">
               <tr>
                 <td style="vertical-align: bottom;">
-
-                <table class="estados-pc">
-                  <tr>
-                    <td>Durango<td>
-                    <td>Chihuahua<td>
-                  </tr>
-                  <tr>
-                    <td>Zacatecas<td>
-                    <td>México DF<td>
-                  </tr>
-                  <tr>
-                    <td>San Luis Potosí<td>
-                    <td>Morelos<td>
-                  </tr>
-                  <tr>
-                    <td>Aguascalientes<td>
-                    <td>Nuevo León<td>
-                  </tr>
-                  <tr>
-                    <td>Nayarit<td>
-                    <td>Quintana Roo<td>
-                  </tr>
-                  <tr>
-                    <td>Jalisco<td>
-                    <td>Sinaloa<td>
-                  </tr>
-                  <tr>
-                    <td>Colima<td>
-                    <td>Sonora<td>
-                  </tr>
-                  <tr>
-                    <td>Puebla<td>
-                    <td>Tlaxcala<td>
-                  </tr>
-                  <tr>
-                    <td>Guerrero<td>
-                    <td>Yucatán<td>
-                  </tr>
-                  <tr>
-                    <td>Hidalgo<td>
-                    <td>Querétaro<td>
-                  </tr>
-                  <tr>
-                    <td>Guanajuato<td>
-                    <td> <td>
-                  </tr>
-                </table></td>
-                <td>
-                  <img class="img-responsive" src="img/mapa-efirsa.png">
+                  <table class="estados-pc">
+                    <tr>
+                      <td>Aguascalientes<td>
+                      <td><td>
+                    </tr>
+                    <tr>
+                      <td>Baja California Sur<td>
+                      <td>Nuevo León<td>
+                    </tr>
+                    <tr>
+                      <td>CDMX<td>
+                      <td>Puebla<td>
+                    </tr>
+                    <tr>
+                      <td>Chihuahua<td>
+                      <td>Querétaro<td>
+                    </tr>
+                    <tr>
+                      <td>Colima<td>
+                      <td>Quintana Roo<td>
+                    </tr>
+                    <tr>
+                      <td>Durango<td>
+                      <td>San Luis Potosí<td>
+                    </tr>
+                    <tr>
+                      <td>Guanajuato<td>
+                      <td>Sinaloa<td>
+                    </tr>
+                    <tr>
+                      <td>Guerrero<td>
+                      <td>Sonora<td>
+                    </tr>
+                    <tr>
+                      <td>Hidalgo<td>
+                      <td>Tlaxcala<td>
+                    </tr>
+                    <tr>
+                      <td>Jalisco<td>
+                      <td>Veracruz<td>
+                    </tr>
+                    <tr>
+                      <td>Morelos<td>
+                      <td>Yucatán<td>
+                    </tr>
+                    <tr>
+                      <td>Nayarit<td>
+                      <td>Zacatecas<td>
+                    </tr>
+                  </table>
                 </td>
               </tr>
             </table>
 
             <div class="visible-xs">
-
-                <img class="img-responsive" src="img/mapa-efirsa.png">
-
-                <table style="width: 100%; ">
-                  <tr>
-                    <td>Durango</td>
-                    <td>Colima</td>
-                    <td>Chihuahua</td>
-                    <td>Sonora</td>
-                  </tr>
-                  <tr>
-                    <td>Zacatecas</td>
-                    <td>Puebla</td>
-                    <td>México DF</td>
-                    <td>Tlaxcala</td>
-                  </tr>
-                  <tr>
-                    <td>San Luis Potosí</td>
-                    <td>Guerrero</td>
-                    <td>Morelos</td>
-                    <td>Yucatán</td>
-                  </tr>
-                  <tr>
-                    <td>Hidalgo</td>
-                    <td>Aguascalientes</td>
-                    <td>Nuevo León</td>
-                    <td></td>
-                  </tr>
-                  <tr>
-                    <td>Nayarit</td>
-                    <td>Guanajuato</td>
-                    <td>Quintana Roo</td>
-                    <td></td>
-                  </tr>
-                  <tr>
-                    <td>Jalisco</td>
-                    <td>Querétaro</td>
-                    <td>Sinaloa</td>
-                    <td></td>
-                  </tr>
+                <table style="width: 100%;  margin-top: 248px;">
+                <tr>
+                <td>Aguascalientes<td>
+                <td><td>
+              </tr>
+              <tr>
+                <td>Baja California Sur<td>
+                <td>Nuevo León<td>
+              </tr>
+              <tr>
+                <td>CDMX<td>
+                <td>Puebla<td>
+              </tr>
+              <tr>
+                <td>Chihuahua<td>
+                <td>Querétaro<td>
+              </tr>
+              <tr>
+                <td>Colima<td>
+                <td>Quintana Roo<td>
+              </tr>
+              <tr>
+                <td>Durango<td>
+                <td>San Luis Potosí<td>
+              </tr>
+              <tr>
+                <td>Guanajuato<td>
+                <td>Sinaloa<td>
+              </tr>
+              <tr>
+                <td>Guerrero<td>
+                <td>Sonora<td>
+              </tr>
+              <tr>
+                <td>Hidalgo<td>
+                <td>Tlaxcala<td>
+              </tr>
+              <tr>
+                <td>Jalisco<td>
+                <td>Veracruz<td>
+              </tr>
+              <tr>
+                <td>Morelos<td>
+                <td>Yucatán<td>
+              </tr>
+              <tr>
+                <td>Nayarit<td>
+                <td>Zacatecas<td>
+              </tr>
                 </table>
             </div>
 

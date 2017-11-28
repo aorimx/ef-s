@@ -27,20 +27,20 @@
           <div id="navbar" class="navbar-collapse collapse" style="overflow: hidden; max-height: 424px !important;">
             <ul itemscope itemtype="http://www.schema.org/SiteNavigationElement" class="nav navbar-nav navbar-cel">
               <li>
-                <a class="navbar-brand marca-nocel hidden-xs hidden-sm" href="index.php" style="padding-bottom: 7px; padding-top: 7px;"><img src="img/logos/efirsaNav.png"></a>
+                <a class="navbar-brand marca-nocel hidden-xs hidden-sm" href="index.php" style="padding-bottom: 7px; padding-top: 7px; margin-right:200px;"><img src="img/logos/efirsaNav.png"></a>
               </li>
               <li class="arrow_box"><a itemprop="url" href="index.php"><span itemprop="name">Inicio</span></a></li>
               <li class="arrow_box"><a itemprop="url" href="nosotros.php"><span itemprop="name">Nosotros</span></a></li>
               <li class="arrow_box"><a itemprop="url" href="productos.php"><span itemprop="name">Productos</span></a></li>
               <li class="arrow_box"><a itemprop="url" href="certificaciones.php"><span itemprop="name">Certificaciones</span></a></li>
-              <li class="arrow_box"><a itemprop="url" href="#"><span itemprop="name">Tienda</span></a></li>
               <li class="arrow_box"><a itemprop="url" href="contacto.php"><span itemprop="name">Contacto</span></a></li>
               <!--<li class="iconos-menu hidden-xs hidden-sm"><a href="#"><img class="lupaMenu" src="img/lupa.png"></a></li>
               <li class="iconos-menu"><a href="#"><img class="carritoMenu" src="img/carrito.png"></a></li>-->
-              <li class="dropdown iconos-menu">
+              <!-- Descomentar cuando se usen las nuevas funciones
+                <li class="dropdown iconos-menu">
                 <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><img class="carritoMenu" src="img/carrito.png"></a>
                 <ul class="dropdown-menu">
-                  <li class="dropdown-header">Tu carrito está vacío</li>
+                  <li class="dropdown-header">Tu carrito está vacío</li>-->
                   <!--Descomentar cuando se implementen las siguientes funciones-->
                   <!--<li><a href="#"><img class="iconos-submenu" src="img/kart.png">Carrito</a></li>
                   <li role="separator" class="divider"></li>
@@ -50,8 +50,9 @@
                   <li role="separator" class="divider"></li>
                   <li><a href="#"><img class="iconos-submenu" src="img/profile.png">Iniciar sesión</a></li>
                   <li role="separator" class="divider"></li>-->
-                </ul>
-              </li>
+                <!-- Dscomentar cuando se implementen las nuevas funciones
+                  </ul>
+              </li>-->
               <!--<li class="iconos-menu"><a href="#"><img class="bolsaMenu" src="img/bolsa.png"></a></li>-->
             </ul>
           </div><!--/.nav-collapse -->

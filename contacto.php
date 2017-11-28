@@ -6,6 +6,16 @@
   </div>
   <div class="container">
     <div class="row div-contacto">
+      <div class="opciones">
+        <div class="txtOpciones">
+          <p class="txtEmpresa">EMPRESA</p>
+          <p class="txtProfesionista">PROFESIONISTA</p>
+        </div>
+        <div class="linesOpciones">
+          <hr class="sliderEmpresa">
+          <hr class="sliderProfesionista">
+        </div>
+      </div>
       <div class="col-xs-12 col-sm-6">
         <form class="form-contacto" action="#">
           <div class="form-group">
@@ -38,7 +48,7 @@
 
            function initMap() {
              var map = new google.maps.Map(document.getElementById('map'), {
-               zoom: 14,
+               zoom: 15,
                                     // set the zoom level manually
              zoomControl: true,
              scaleControl: false,

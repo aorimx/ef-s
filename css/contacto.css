@@ -1,0 +1,129 @@
+.opciones{
+    /*border: 2px  solid black;*/
+    width: 47%;
+    margin-bottom: 24px;
+    padding-left: 16px;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-flex-wrap:nowrap;
+    -ms-flex-wrap:nowrap;
+    flex-wrap: nowrap; /* si un elemento no cabe lo pone por debajo*/
+
+    -webkit-flex-direction: column;  /*direccion del acomodo de las cajas*/
+    -ms-flex-direction: column;
+    flex-direction: column;
+
+    -webkit-justify-content:flex-start; 
+    -ms-flex-pack:flex-start;
+    justify-content:flex-start;
+    
+    -webkit-align-items: center; /*alinea los elementos al centro de contenedor*/
+    -ms-flex-align: center;
+    align-items: center;
+}
+.txtOpciones{
+    width: 100%;
+    /*border: 2px solid orange;*/
+    font-size: 22px;
+    text-align: center;
+    letter-spacing: 1px;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+
+    -webkit-flex-wrap:nowrap;
+    -ms-flex-wrap:nowrap;
+    flex-wrap: nowrap; /* si un elemento no cabe lo pone por debajo*/
+
+    -webkit-flex-direction: row ;  /*direccion del acomodo de las cajas*/
+    -ms-flex-direction: row;
+    flex-direction: row;
+
+    -webkit-justify-content:flex-start; 
+    -ms-flex-pack:flex-start;
+    justify-content:flex-start;
+}
+.txtEmpresa{
+    width: 45%;
+    color: #01802a;
+    cursor: pointer;
+    font-size: 21px;
+    font-weight: bold;
+    margin-bottom: 16px;
+    transition: all 0.2s ease-in-out;
+}
+
+.txtProfesionista{
+    width: 55%;
+    color: #9a9a9a;
+    cursor: pointer;
+    font-size: 21px;
+    font-weight: bold;
+    margin-bottom: 16px;
+    transition: all 0.2s ease-in-out;
+}
+
+.txtEmpresaGris{
+    color: #9a9a9a;
+    transition: all 0.2s ease-in-out;
+}
+
+.txtProfesionistaRojo{
+    color: #01802a;
+    transition: all 0.2s ease-in-out;
+}
+
+.linesOpciones{
+    width: 100%;
+    /*border: 2px solid blue;*/
+    letter-spacing: 1px;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+
+    -webkit-flex-wrap:nowrap;
+    -ms-flex-wrap:nowrap;
+    flex-wrap: nowrap; /* si un elemento no cabe lo pone por debajo*/
+
+    -webkit-flex-direction: row ;  /*direccion del acomodo de las cajas*/
+    -ms-flex-direction: row;
+    flex-direction: row;
+
+    -webkit-justify-content:flex-start; 
+    -ms-flex-pack:flex-start;
+    justify-content:flex-start;
+}
+
+hr.sliderEmpresa {
+    width: 45%;
+    border-top: 12px solid #01802a;
+    margin-top: 0px;
+    margin-bottom: 16px;
+    border-bottom: none;
+    border-left: none;
+    border-right: none;
+    transition: all 0.2s ease-in-out;
+}
+
+hr.sliderProfesionista {
+    width: 55%;
+    border-top: 5px solid #c7c3c8;
+    margin-top: 3px;
+    margin-bottom: 16px;
+    border-bottom: none;
+    border-left: none;
+    border-right: none;
+    transition: all 0.2s ease-in-out;
+}
+
+hr.gray{
+    border-top: 5px solid #c7c3c8;
+    margin-top: 3px;
+    transition: all 0.2s ease-in-out;
+}
+
+hr.red{
+    border-top: 12px solid #01802a;
+    transition: all 0.2s ease-in-out;
+}

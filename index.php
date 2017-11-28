@@ -39,7 +39,7 @@
   <div class="row seccion-productos">
     <div class="padding-home">
       <h2 class="titulos-secciones">Productos</h2>
-      <p class="texto-verde enlaces-verdes"><a target="_blank" class="texto-verde enlaces-verdes" href="archivos/catalogoEfirsa.pdf">Ver catálogo <img class="flecha-enlace" src="img/flecha-verde.png"></a></p>
+      <p class="texto-verde enlaces-verdes"><a target="_blank" class="texto-verde enlaces-verdes" href="archivos/catalogoEfirsa.pdf">Descargar nuestro catálogo<img class="flecha-enlace" src="img/flecha-verde.png"></a></p>
     </div>
     <!--<img class="img-full" src="img/cintillo-catalogo.jpg">-->
   </div>
