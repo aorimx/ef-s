@@ -8,7 +8,7 @@
     <div class="row proveedores-catalogo">
       <div class="col-xs-12 col-lg-10 col-lg-offset-1 div-historia divNosotros">
         
-        <p class="p-a" style="font-size: 16px; width: 89%;">Nuestro fundador y director Aureliano Flores López inició con la empresa SIMEYE la cual se dedicaba a los servicios de mantenimiento, posteriormente paso a convertirse en Elevadores de Occidente realizando la instalación de elevadores y escaleras marca Mitsubishi, poco después la instalación de elevadores Italianos creando la marca Elevadores Familiares y de Restaurantes S.A. de C.V, finalmente se evoluciono a Efirsa S.A. de C.V. en el año 2010.</p>
+        <p class="p-a" style="font-size: 16px; width: 89%;">Nuestro fundador y director Aureliano Flores López inició con la empresa SIMEYE la cual se dedicaba a los servicios de mantenimiento, posteriormente paso a convertirse en Elevadores de Occidente realizando la instalación de elevadores y escaleras marca Mitsubishi, poco después la instalación de elevadores Italianos creando la marca Elevadores Familiares y de Restaurantes S.A. de C.V, finalmente se evolucionó a Efirsa S.A. de C.V. en el año 2010.</p>
         <br>
         <img class="foto1 img-full-767 nosotrosImg" src="img/foto-nosotros1.png">
         <p class="p-a txtNosotros">EFIRSA se especializa en todo tipo de ascensores y escaleras eléctricas desde hace más de 30 años. Ofreciendo soluciones innovadoras y ecológicamente eficientes; apoyando cada paso de nuestros clientes durante cada uno de sus proyectos; que parte desde el diseño, fabricación e instalación hasta el mantenimiento y modernización.
@@ -72,7 +72,7 @@
       <div class="div-diferencia">
         <div class="col-xs-12 col-lg-10 col-lg-offset-1">
           <h2 class="p-a">Lo que nos diferencia de la competencia</h2>
-          <p class="p-a">EFIRSA se encarga de todo el proceso, desde que se cotiza un equipo hasta la entrega del mismo, la competencia solo realiza pedidos y con subcontrataciones ejecuta las instalaciones, por lo que genera ciertos conflictos con el producto final y en la mayoría de los casos durante el asesoramiento de obra. A la par de esto, EFIRSA está creando sociedades con diversas mini empresas en la republica mexicana que tienen la capacidad de enriquecer el mercado nacional en ventas y aportar conocimientos de otras marcas. EFIRSA te ofrece:</p>
+          <p class="p-a">EFIRSA se encarga de todo el proceso, desde que se cotiza un equipo hasta la entrega del mismo, la competencia solo realiza pedidos y con subcontrataciones ejecuta las instalaciones, por lo que genera ciertos conflictos con el producto final y en la mayoría de los casos durante el asesoramiento de obra. A la par de esto, EFIRSA está creando sociedades con diversas mini empresas en la república mexicana que tienen la capacidad de enriquecer el mercado nacional en ventas y aportar conocimientos de otras marcas. EFIRSA te ofrece:</p>
           <ul class="lista-diferencia">
             <li>Garantía de corrosión de 20 años en el acero inoxidable.</li>
             <li>Garantías de motor y sistemas electrónicos. </li>
