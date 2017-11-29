@@ -1,6 +1,11 @@
 <?php
 $name = $_POST["nombre"];
+$empresa = $_POST["profesion"];
+$telefono = $_POST["tel"];
 $correo = $_POST["email"];
+$asunto = $_POST["asunto"];
+$message = $_POST["mensaje"];
+$victor = 'victor.sanchez@efirsa.mx';
 
 // Si cualquier línea es más larga de 70 caracteres, se debería usar wordwrap()
 $mensaje ='<html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office">
@@ -69,7 +74,7 @@ $mensaje ='<html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-micro
       <table role="presentation" border="0" cellpadding="0" cellspacing="0">
         <tr>
           <td style="vertical-align:top;width:600px;">
-      <![endif]--><div class="mj-column-per-100 outlook-group-fix" style="vertical-align:top;display:inline-block;direction:ltr;font-size:13px;text-align:left;width:100%;"><table role="presentation" cellpadding="0" cellspacing="0" width="100%" border="0"><tbody><tr><td style="word-wrap:break-word;font-size:0px;padding:10px 25px;" align="center"><table role="presentation" cellpadding="0" cellspacing="0" style="border-collapse:collapse;border-spacing:0px;" align="center" border="0"><tbody><tr><td style="width:192px;"><img alt="" title="" height="auto" src="http://efirsa.mx/img/logos/logoIndex.png" style="border:none;border-radius:0px;display:block;font-size:13px;outline:none;text-decoration:none;width:100%;height:auto;" width="192"></td></tr></tbody></table></td></tr><tr><td style="word-wrap:break-word;font-size:0px;padding:24px 25px;" align="center"><div style="cursor:auto;color:#000000;font-family:Ubuntu, Helvetica, Arial, sans-serif;font-size:19px;font-weight:bold;line-height:22px;text-align:center;">Bienvenido a EFIRSA</div></td></tr></tbody></table></div><!--[if mso | IE]>
+      <![endif]--><div class="mj-column-per-100 outlook-group-fix" style="vertical-align:top;display:inline-block;direction:ltr;font-size:13px;text-align:left;width:100%;"><table role="presentation" cellpadding="0" cellspacing="0" width="100%" border="0"><tbody><tr><td style="word-wrap:break-word;font-size:0px;padding:10px 25px;" align="center"><table role="presentation" cellpadding="0" cellspacing="0" style="border-collapse:collapse;border-spacing:0px;" align="center" border="0"><tbody><tr><td style="width:192px;"><img alt="" title="" height="auto" src="http://efirsa.mx/img/logos/logoIndex.png" style="border:none;border-radius:0px;display:block;font-size:13px;outline:none;text-decoration:none;width:100%;height:auto;" width="192"></td></tr></tbody></table></td></tr><tr><td style="word-wrap:break-word;font-size:0px;padding:24px 25px;" align="center"><div style="cursor:auto;color:#000000;font-family:Ubuntu, Helvetica, Arial, sans-serif;font-size:19px;font-weight:bold;line-height:22px;text-align:center;">Solicitud de información</div></td></tr></tbody></table></div><!--[if mso | IE]>
       </td></tr></table>
       <![endif]--></td></tr></tbody></table></div><!--[if mso | IE]>
       </td></tr></table>
@@ -82,7 +87,7 @@ $mensaje ='<html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-micro
       <table role="presentation" border="0" cellpadding="0" cellspacing="0">
         <tr>
           <td style="vertical-align:top;width:600px;">
-      <![endif]--><div class="mj-column-per-100 outlook-group-fix" style="vertical-align:top;display:inline-block;direction:ltr;font-size:13px;text-align:left;width:100%;"><table role="presentation" cellpadding="0" cellspacing="0" width="100%" border="0"><tbody><tr><td style="word-wrap:break-word;font-size:0px;padding:0px 25px;" align="left"><div style="cursor:auto;color:#000000;font-family:Ubuntu, Helvetica, Arial, sans-serif;font-size:20px;font-weight:bold;line-height:22px;text-align:left;"><span style="color: #008029">Hola '.$name.'</span></div></td></tr></tbody></table></div><!--[if mso | IE]>
+      <![endif]--><div class="mj-column-per-100 outlook-group-fix" style="vertical-align:top;display:inline-block;direction:ltr;font-size:13px;text-align:left;width:100%;"><table role="presentation" cellpadding="0" cellspacing="0" width="100%" border="0"><tbody><tr><td style="word-wrap:break-word;font-size:0px;padding:0px 25px;" align="left"><div style="cursor:auto;color:#000000;font-family:Ubuntu, Helvetica, Arial, sans-serif;font-size:20px;font-weight:bold;line-height:22px;text-align:left;"><span style="color: #008029">Hola Victor</span></div></td></tr></tbody></table></div><!--[if mso | IE]>
       </td></tr></table>
       <![endif]--></td></tr></tbody></table></div><!--[if mso | IE]>
       </td></tr></table>
@@ -95,9 +100,7 @@ $mensaje ='<html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-micro
       <table role="presentation" border="0" cellpadding="0" cellspacing="0">
         <tr>
           <td style="vertical-align:top;width:600px;">
-      <![endif]--><div class="mj-column-per-100 outlook-group-fix" style="vertical-align:top;display:inline-block;direction:ltr;font-size:13px;text-align:left;width:100%;"><table role="presentation" cellpadding="0" cellspacing="0" width="100%" border="0"><tbody><tr><td style="word-wrap:break-word;font-size:0px;padding:10px 25px;padding-top:0px;padding-bottom:10px;padding-right:25px;padding-left:25px;" align="left"><div style="cursor:auto;color:#000000;font-family:Ubuntu, Helvetica, Arial, sans-serif;font-size:16px;line-height:22px;text-align:left;"><span style="color: rgb(0, 0, 0);">
-En EFIRSA somos una compañía dedicada a la elaboración de sistemas de elevación enfocada a brindarle al cliente una solución integral de acuerdo a sus necesidades.
-						</span></div></td></tr><tr><td style="word-wrap:break-word;font-size:0px;padding:10px 25px;"><p style="font-size:1px;margin:0px auto;border-top:2px solid  #008029;width:100%;"></p><!--[if mso | IE]><table role="presentation" align="center" border="0" cellpadding="0" cellspacing="0" style="font-size:1px;margin:0px auto;border-top:2px solid  #008029;width:100%;" width="600"><tr><td style="height:0;line-height:0;"> </td></tr></table><![endif]--></td></tr></tbody></table></div><!--[if mso | IE]>
+      <![endif]--><div class="mj-column-per-100 outlook-group-fix" style="vertical-align:top;display:inline-block;direction:ltr;font-size:13px;text-align:left;width:100%;"><table role="presentation" cellpadding="0" cellspacing="0" width="100%" border="0"><tbody><tr><td style="word-wrap:break-word;font-size:0px;padding:10px 25px;padding-top:0px;padding-bottom:10px;padding-right:25px;padding-left:25px;" align="left"><div style="cursor:auto;color:#000000;font-family:Ubuntu, Helvetica, Arial, sans-serif;font-size:16px;line-height:22px;text-align:left;"><span style="color: rgb(0, 0, 0);">La persona '.$name.' con la profesión de: '.$empresa.'  se comunicó con ustedes para solicitar información acerca de la empresa.</span></div></td></tr><tr><td style="word-wrap:break-word;font-size:0px;padding:10px 25px;"><p style="font-size:1px;margin:0px auto;border-top:2px solid  #008029;width:100%;"></p><!--[if mso | IE]><table role="presentation" align="center" border="0" cellpadding="0" cellspacing="0" style="font-size:1px;margin:0px auto;border-top:2px solid  #008029;width:100%;" width="600"><tr><td style="height:0;line-height:0;"> </td></tr></table><![endif]--></td></tr></tbody></table></div><!--[if mso | IE]>
       </td></tr></table>
       <![endif]--></td></tr></tbody></table></div><!--[if mso | IE]>
       </td></tr></table>
@@ -110,7 +113,7 @@ En EFIRSA somos una compañía dedicada a la elaboración de sistemas de elevaci
       <table role="presentation" border="0" cellpadding="0" cellspacing="0">
         <tr>
           <td style="vertical-align:top;width:600px;">
-      <![endif]--><div class="mj-column-per-100 outlook-group-fix" style="vertical-align:top;display:inline-block;direction:ltr;font-size:13px;text-align:left;width:100%;"><table role="presentation" cellpadding="0" cellspacing="0" width="100%" border="0"><tbody><tr><td style="word-wrap:break-word;font-size:0px;padding:0px 25px 16px 25px;" align="left"><div style="cursor:auto;color:#000000;font-family:Ubuntu, Helvetica, Arial, sans-serif;font-size:16px;line-height:22px;text-align:left;">Nuestros productos especializados son:</div></td></tr><tr><td style="word-wrap:break-word;font-size:0px;padding:0px 25px 16px 48px;" align="left"><div style="cursor:auto;color:#000000;font-family:Ubuntu, Helvetica, Arial, sans-serif;font-size:16px;line-height:22px;text-align:left;">✓ Elevadores doméstico, residencial e industrial.</div></td></tr><tr><td style="word-wrap:break-word;font-size:0px;padding:0px 25px 16px 48px;" align="left"><div style="cursor:auto;color:#000000;font-family:Ubuntu, Helvetica, Arial, sans-serif;font-size:16px;line-height:22px;text-align:left;">✓ Montacargas</div></td></tr><tr><td style="word-wrap:break-word;font-size:0px;padding:0px 25px 16px 48px;" align="left"><div style="cursor:auto;color:#000000;font-family:Ubuntu, Helvetica, Arial, sans-serif;font-size:16px;line-height:22px;text-align:left;">✓ Apila Autos</div></td></tr><tr><td style="word-wrap:break-word;font-size:0px;padding:0px 25px 16px 48px;" align="left"><div style="cursor:auto;color:#000000;font-family:Ubuntu, Helvetica, Arial, sans-serif;font-size:16px;line-height:22px;text-align:left;">✓ Aceras móviles</div></td></tr></tbody></table></div><!--[if mso | IE]>
+      <![endif]--><div class="mj-column-per-100 outlook-group-fix" style="vertical-align:top;display:inline-block;direction:ltr;font-size:13px;text-align:left;width:100%;"><table role="presentation" cellpadding="0" cellspacing="0" width="100%" border="0"><tbody><tr><td style="word-wrap:break-word;font-size:0px;padding:0px 25px 16px 25px;" align="left"><div style="cursor:auto;color:#000000;font-family:Ubuntu, Helvetica, Arial, sans-serif;font-size:16px;line-height:22px;text-align:left;">Los datos completos de la persona se muestran a continuación:</div></td></tr><tr><td style="word-wrap:break-word;font-size:0px;padding:0px 25px 16px 25px;" align="left"><div style="cursor:auto;color:#000000;font-family:Ubuntu, Helvetica, Arial, sans-serif;font-size:16px;line-height:22px;text-align:left;">Nombre: '.$name.' </div></td></tr><tr><td style="word-wrap:break-word;font-size:0px;padding:0px 25px 16px 25px;" align="left"><div style="cursor:auto;color:#000000;font-family:Ubuntu, Helvetica, Arial, sans-serif;font-size:16px;line-height:22px;text-align:left;">Profesión: '.$empresa.' </div></td></tr><tr><td style="word-wrap:break-word;font-size:0px;padding:0px 25px 16px 25px;" align="left"><div style="cursor:auto;color:#000000;font-family:Ubuntu, Helvetica, Arial, sans-serif;font-size:16px;line-height:22px;text-align:left;">Teléfono: '.$telefono.' </div></td></tr><tr><td style="word-wrap:break-word;font-size:0px;padding:0px 25px 16px 25px;" align="left"><div style="cursor:auto;color:#000000;font-family:Ubuntu, Helvetica, Arial, sans-serif;font-size:16px;line-height:22px;text-align:left;">Email: '.$correo.' </div></td></tr><tr><td style="word-wrap:break-word;font-size:0px;padding:0px 25px 16px 25px;" align="left"><div style="cursor:auto;color:#000000;font-family:Ubuntu, Helvetica, Arial, sans-serif;font-size:16px;line-height:22px;text-align:left;">Asunto: '.$asunto.' </div></td></tr><tr><td style="word-wrap:break-word;font-size:0px;padding:0px 25px 16px 25px;" align="left"><div style="cursor:auto;color:#000000;font-family:Ubuntu, Helvetica, Arial, sans-serif;font-size:16px;line-height:22px;text-align:left;">Mensaje: '.$message.' </div></td></tr></tbody></table></div><!--[if mso | IE]>
       </td></tr></table>
       <![endif]--></td></tr></tbody></table></div><!--[if mso | IE]>
       </td></tr></table>
@@ -123,7 +126,7 @@ En EFIRSA somos una compañía dedicada a la elaboración de sistemas de elevaci
       <table role="presentation" border="0" cellpadding="0" cellspacing="0">
         <tr>
           <td style="vertical-align:top;width:600px;">
-      <![endif]--><div class="mj-column-per-100 outlook-group-fix" style="vertical-align:top;display:inline-block;direction:ltr;font-size:13px;text-align:left;width:100%;"><table role="presentation" cellpadding="0" cellspacing="0" width="100%" border="0"><tbody><tr><td style="word-wrap:break-word;font-size:0px;padding:10px 25px;padding-bottom:0px;" align="left"><div style="cursor:auto;color:#000000;font-family:Ubuntu, Helvetica, Arial, sans-serif;font-size:15px;line-height:22px;text-align:left;">Gracias por ponerte en contacto con nosotros, un ejecutivo se comunicará con usted en las próximas 24 horas.</div></td></tr><tr><td style="word-wrap:break-word;font-size:0px;padding:10px 25px;padding-bottom:0px;" align="left"><div style="cursor:auto;color:#000000;font-family:Ubuntu, Helvetica, Arial, sans-serif;font-size:15px;line-height:22px;text-align:left;">Quedo a tus órdenes,</div></td></tr><tr><td style="word-wrap:break-word;font-size:0px;padding:10px 25px;" align="left"><div style="cursor:auto;color:#000000;font-family:Ubuntu, Helvetica, Arial, sans-serif;font-size:13px;line-height:22px;text-align:left;">A T E N T A M E N T E,</div></td></tr><tr><td style="word-wrap:break-word;font-size:0px;padding:10px 25px;" align="left"><div style="cursor:auto;color:#000000;font-family:Ubuntu, Helvetica, Arial, sans-serif;font-size:13px;line-height:22px;text-align:left;">Victor Sánchez  Director Comercial EFIRSA</div></td></tr></tbody></table></div><!--[if mso | IE]>
+      <![endif]--><div class="mj-column-per-100 outlook-group-fix" style="vertical-align:top;display:inline-block;direction:ltr;font-size:13px;text-align:left;width:100%;"><table role="presentation" cellpadding="0" cellspacing="0" width="100%" border="0"><tbody><tr><td style="word-wrap:break-word;font-size:0px;padding:10px 25px;padding-bottom:0px;" align="left"><div style="cursor:auto;color:#000000;font-family:Ubuntu, Helvetica, Arial, sans-serif;font-size:15px;line-height:22px;text-align:left;">Sin mas que comunicar.</div></td></tr><tr><td style="word-wrap:break-word;font-size:0px;padding:10px 25px;padding-bottom:0px;" align="left"><div style="cursor:auto;color:#000000;font-family:Ubuntu, Helvetica, Arial, sans-serif;font-size:15px;line-height:22px;text-align:left;">Quedamos a tus órdenes,</div></td></tr><tr><td style="word-wrap:break-word;font-size:0px;padding:10px 25px;" align="left"><div style="cursor:auto;color:#000000;font-family:Ubuntu, Helvetica, Arial, sans-serif;font-size:13px;line-height:22px;text-align:left;">A T E N T A M E N T E,</div></td></tr><tr><td style="word-wrap:break-word;font-size:0px;padding:10px 25px;" align="left"><div style="cursor:auto;color:#000000;font-family:Ubuntu, Helvetica, Arial, sans-serif;font-size:20px;line-height:22px;text-align:left;">EFIRSA</div></td></tr></tbody></table></div><!--[if mso | IE]>
       </td></tr></table>
       <![endif]--></td></tr></tbody></table></div><!--[if mso | IE]>
       </td></tr></table>
@@ -148,13 +151,17 @@ Todos los Derechos Reservados.</span></div></td></tr></tbody></table></div><!--[
 </body>
 </html>' ;
 
+
+
+
+
 $mensaje = wordwrap($mensaje, 70, "\r\n");
 $cabeceras = 'MIME-Version: 1.0' . "\r\n";
 $cabeceras .= 'Content-type: text/html; charset=utf-8' . "\r\n";
 $cabeceras .= 'From: Efirsa<ventas@efirsa.mx>';
 // Enviamos el email
-mail($correo, 'Cita con EFIRSA', $mensaje, $cabeceras);
 
-echo "EMAIL ENVIADO...";
+mail($victor, 'Correo de EFIRSA', $mensaje, $cabeceras);
 
+echo "Datos ENVIADO...";
 ?>

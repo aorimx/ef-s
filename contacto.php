@@ -48,10 +48,10 @@
                       <ul class="dropdow-select">
                         <li>
                           <div class="checkbox">
-                            <input class="cbp" type="checkbox" value="Lorem ipsum," id="brandingP"/>
-                            <label class="input-label cbp"  for="brandingP"></label>
+                            <input class="cbe" type="checkbox" value="Lorem ipsum," id="branding"/>
+                            <label class="input-label cbe"  for="branding"></label>
                           </div>
-                          <label class="text-label cbp" for="brandingP">Lorem ipsum</label>
+                          <label class="text-label cbe" for="branding">Lorem ipsum</label>
                         </li>
                         <!--<li>
                           <div class="checkbox">
@@ -542,6 +542,7 @@
       	if($('label.error').length == 0){
           console.log("se enviara un correo");
           contactoEnviarMensajeBtn_click();
+          contactoEnviarDatos();
       	}
       
 
@@ -629,7 +630,7 @@
       	if($('label.error').length == 0){
           console.log("se enviara un correo");
           contactoEnviarMensajeBtnP_click();
-        
+          contactoEnviarDatosP();
 
       		//$('#contact-form').unbind('submit').submit();
       	}
