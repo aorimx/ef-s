@@ -159,7 +159,7 @@
       <div class="hero-text">
         <h2 class="hero-mexico-txt">HECHO <b class="fwHero">DE MÉXICO</b></h2>
         <p class="hero-originarios">ORIGINARIOS DE GUADALAJARA, JALISCO.</p>
-        <img class="heroSello" src="img/hero/sello_mex.svg" alt="">
+     
       </div>
     </div>
   </center>

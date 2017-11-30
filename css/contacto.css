@@ -184,6 +184,14 @@ hr.red{
     flex-wrap: wrap;
     justify-content: space-between;
 }
+@media screen and (max-width: 600px){
+    .form-container form{
+        
+        padding: 0px 16px;
+        
+    }
+}
+
 .input-1{
     width: 100%;
     position:relative;

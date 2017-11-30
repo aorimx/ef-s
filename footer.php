@@ -16,21 +16,45 @@
 </footer>
 
 <div class="gris-footer">
-  <div class="container">
-    <div class="col-xs-12 col-sm-6 centrar-footer">
+  <div class="container resp-none">
+    <div class="col-sm-4 centrar-footer">
       <ul class="redes-footer">
         <li><a href="https://www.facebook.com/elevadores.efirsa/"><img src="img/fb-footerg.png"></a></li>
         <li><a href="#"><img src="img/instagram.svg" style="width: 24px;" alt=""></a></li>
         <li><a href="https://www.youtube.com/channel/UCAS0CzSP8m0o95ENQwm95PQ"><img src="img/yt-footerg.png"></a></li>
       </ul>
     </div>
-    <div class="col-xs-12 col-sm-6 centrar-footer">
+    <div class=" col-sm-4 centrar-footer">
       <p class="copyright">
         Copyright © EFIRSA. <br>
         Todos los Derechos Reservados.
       </p>
     </div>
-  </div>
+    <div class="col-sm-4 centrar-footer">
+      <a href="archivos/avisodePrivacidad.jpg" target="_blank"><p class="aviso">Políticas de privacidad</p></a> 
+      <a href="archivos/terminosycondiciones.pdf" target="_blank"><p class="aviso"> Términos y Condiciones</p></a>
+    </div>
+  </div> 
+
+  <div class="container-footer-2">
+    <div class="col-xs-4 centrar-footer">
+      <ul class="redes-footer">
+        <li><a href="https://www.facebook.com/elevadores.efirsa/"><img src="img/fb-footerg.png"></a></li>
+        <li><a href="#"><img src="img/instagram.svg" style="width: 17px;" alt=""></a></li>
+        <li><a href="https://www.youtube.com/channel/UCAS0CzSP8m0o95ENQwm95PQ"><img src="img/yt-footerg.png"></a></li>
+      </ul>
+    </div>
+    <div class="col-xs-8 centrar-footer">
+      <a href="archivos/avisodePrivacidad.jpg" target="_blank"><p class="aviso">Políticas de privacidad</p></a> 
+      <a href="archivos/terminosycondiciones.pdf" target="_blank"><p class="aviso"> Términos y Condiciones</p></a>
+    </div>
+    <div class=" col-xs-12 centrar-footer">
+      <p class="copyright">
+        Copyright © EFIRSA. 
+        Todos los Derechos Reservados.
+      </p>
+    </div>
+  </div> 
 </div>
 <!-- Scripts para funcionamiento -->
 </body>

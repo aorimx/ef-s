@@ -72,8 +72,8 @@
       <div class="div-diferencia">
         <div class="col-xs-12 col-lg-10 col-lg-offset-1">
           <h2 class="p-a">Lo que nos diferencia de la competencia</h2>
-          <p class="p-a">EFIRSA se encarga de todo el proceso, desde que se cotiza un equipo hasta la entrega del mismo, la competencia solo realiza pedidos y con subcontrataciones ejecuta las instalaciones, por lo que genera ciertos conflictos con el producto final y en la mayoría de los casos durante el asesoramiento de obra. A la par de esto, EFIRSA está creando sociedades con diversas mini empresas en la república mexicana que tienen la capacidad de enriquecer el mercado nacional en ventas y aportar conocimientos de otras marcas. EFIRSA te ofrece:</p>
-          <ul class="lista-diferencia">
+          <p class="p-a f-size-16">EFIRSA se encarga de todo el proceso, desde que se cotiza un equipo hasta la entrega del mismo, la competencia solo realiza pedidos y con subcontrataciones ejecuta las instalaciones, por lo que genera ciertos conflictos con el producto final y en la mayoría de los casos durante el asesoramiento de obra. A la par de esto, EFIRSA está creando sociedades con diversas mini empresas en la república mexicana que tienen la capacidad de enriquecer el mercado nacional en ventas y aportar conocimientos de otras marcas. EFIRSA te ofrece:</p>
+          <ul class="lista-diferencia f-size-16">
             <li>Garantía de corrosión de 20 años en el acero inoxidable.</li>
             <li>Garantías de motor y sistemas electrónicos. </li>
             <li>Servicios de mantenimiento a menor costo en el mercado.</li>
@@ -197,7 +197,7 @@
             </table>-
           </div>-->
           <div class="col-xs-12 col-sm-12 mapa">
-            <img src="img/nosotros/mapEfirsa.png" class="imgMapa img-responsive" alt="">
+            <img src="img/nosotros/efirsaMap.png" class="imgMapa img-responsive" alt="">
             <img src="img/nosotros/mapTitle.png" class="titleMap img-responsive" alt="">
             <h2 class="mapPresencia">PRESENCIA</h2>
             <table class="hidden-xs tableMap">

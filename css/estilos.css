@@ -392,8 +392,29 @@ a:hover, a:active{
 
 /* Estilos productos */
 
+.items-content{
+    width: 100%;
+    display: flex;
+    flex-wrap: nowrap;
+}
+.items-responsive{
+    display: none;
+}
+
+@media (max-width: 768px){
+    .items-content{
+        display: none;
+    }
+    .items-responsive{
+        width: 100%;
+        display: flex;
+        flex-wrap: nowrap;
+    }
+}
+
+
 .header-productos{
-  background: url('../img/header-productos.png');
+  background: url('../img/headerProductos.png');
   background-size: 100%;
   background-position: center;
   padding: 110px 0px 50px;
@@ -420,10 +441,46 @@ a:hover, a:active{
 
 @media (max-width: 768px){
     .tRes{
-        width: 49% !important;
+        width: 48% !important;
     }
 }
 
+.deploy{
+    cursor: pointer;
+    position: relative;
+    z-index: 2;
+    font-size: 18px;
+    transition: all 0.2s ease-in-out;
+}
+.parrafo-deploy{
+    position: absolute;
+    width: 90%;
+    z-index: 0;
+    top: 0px;
+    opacity: 0;
+    
+}
+.deployBlock{
+    opacity: 1 !important;
+    position: relative;
+    margin-bottom: 48px;
+}
+.flip-right{
+    opacity: 1;
+    transition: all 0.15s ease-in-out;
+}
+
+.flip-down{
+    opacity: 1;
+    transform: rotate(90deg);
+    transition: all 0.1s ease-in-out;
+}
+.p-bold{
+    font-weight: bold;
+}
+.m24{
+    margin-top: 24px;
+}
 
 /* Fin estilos productos */
 
@@ -688,6 +745,10 @@ a:hover, a:active{
 /* Fin estilos nosotros */
 
 /* Estilos footer */
+.container-footer-2{
+    display: none;
+}
+
 
 .footerContacto{
     height: 100%;
@@ -703,8 +764,18 @@ a:hover, a:active{
 }
 @media screen and (max-width: 600px){
     .footerContacto{
-        height: 60%;
+        height: auto;
     }
+    .container{
+        height: auto !important;
+    }
+    .resp-none{
+        display: none;
+    }
+    .container-footer-2{
+        display: block;
+    }
+    
 }
 footer{
     background-color: #58595b;
@@ -734,12 +805,32 @@ footer{
 .redes-footer img{
   width: 30px;
 }
+@media screen and (max-width: 600px){
+    .redes-footer img{
+        width: 20px !important;
+      }
+      .gris-footer{
+          height: 142px;
+      }
+    
+}
 
 .copyright{
-  text-align: right;
   font-family: 'Gothaml';
-
   font-weight: bold;
+  text-align: center;
+}
+.aviso{
+    font-family: 'Gothaml';
+    font-weight: bold;
+    text-align: right;
+    color: #808285;
+    margin: 0;
+}
+
+.aviso:hover{
+    font-weight: normal;
+    color: #808285;
 }
 
 .logo-footer{
