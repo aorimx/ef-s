@@ -664,7 +664,7 @@
              });
            
           
-             var image = 'http://localhost/ef-s/img/iconoMarker2.svg';
+             var image = 'http://efirsa.mx/img/iconoMarker2.svg';
 
             marker = new google.maps.Marker({
                map: map,
