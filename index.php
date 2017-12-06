@@ -23,7 +23,7 @@
     		  <source src="video/preview.mp4" type="video/mp4">
               Su navegador no soporta la etiqueta de vídeo.
     		</video>
-        <a href="https://www.youtube.com/watch?v=YnuRJKYxous" data-lity><img id="play-video" class="play_button_landing" src="img/play.png"></a>
+        <a href="http://efirsa.mx/archivos/efirsaInstitucional.mp4" data-lity><img id="play-video" class="play_button_landing" src="img/play.png"></a>
       </div>
     </div>
   </div>
