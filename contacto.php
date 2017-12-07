@@ -684,7 +684,11 @@
       </div>
     </div>
   </div>
-  <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
+  
+  <script src="js/sweetalert2/dist/sweetalert2.all.min.js"></script>
+
+<!-- Include a polyfill for ES6 Promises (optional) for IE11 and Android browser -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/core-js/2.4.1/core.js"></script>
   <script type="text/javascript" src="js/jquery-3.2.0.min.js"></script>
   <script src="js/sliderForm.js"></script>
   <script src="js/enviarForm.js"></script>

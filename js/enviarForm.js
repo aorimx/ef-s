@@ -29,7 +29,12 @@ function contactoEnviarMensajeBtn_click()
     formData.append('mensaje',   $("textarea[name='mensaje']").val() );
 
 	post('send-form.php',formData,function(data){
-        swal("¡Tu mensaje ha sido enviado exitosamente!", "Te responderemos lo antes posible", "success");
+        swal({
+            title:"¡Tu mensaje ha sido enviado exitosamente!",
+            text:"Te responderemos lo antes posible",
+            type: "success",
+            confirmButtonColor: '#006b21',
+        });
 		console.log("Exito al enviar el corre");
 		console.log(data);
 	},function(data){
@@ -50,7 +55,12 @@ function contactoEnviarMensajeBtnP_click()
     formData.append('mensaje',   $("textarea[name='mensajep']").val() );
 
 	post('send-form.php',formData,function(data){
-        swal("¡Tu mensaje ha sido enviado exitosamente!", "Te responderemos lo antes posible", "success");
+        swal({
+            title:"¡Tu mensaje ha sido enviado exitosamente!",
+            text:"Te responderemos lo antes posible",
+            type: "success",
+            confirmButtonColor: '#006b21',
+        });
 		console.log("Exito al enviar el corre");
 		console.log(data);
 	},function(data){
