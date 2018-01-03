@@ -30,7 +30,7 @@
         <div class="col-xs-12 col-lg-10 col-lg-offset-1 div-historia divNosotros">
           
           <h2 class="p-a" style="margin-bottom: 32px;">Nuestro propósito</h2>
-          <p class="p-a" style="font-size: 16px;">Ser la primera empresa mexicana en elevadores. Tenemos la capacidad de desarrollar, diseñar y crear equipos de sistemas verticales con tecnología desarrollada y creada en México compitiendo con las grandes marcas como lo son Mitsubishi y Otis. Con ingeniería propia podemos tener menores costos y refacciones en stock con menores tiempos de entrega, así como un servicio más personalizado.</p>
+          <p class="p-a" style="font-size: 16px;">Ser la primera empresa mexicana en elevadores. Tenemos la capacidad de desarrollar, diseñar y crear equipos de sistemas verticales con tecnología desarrollada. Con ingeniería propia podemos tener menores costos y refacciones en stock con menores tiempos de entrega, así como un servicio más personalizado.</p>
 
           <img class="foto2 img-full-767 nosotrosImg2" src="img/nosotros/nosotros1.png">
           <img class="foto2 img-full-767 nosotrosImg3" src="img/nosotros/nosotros2.png">
