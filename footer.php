@@ -19,9 +19,9 @@
   <div class="container resp-none">
     <div class="col-sm-4 centrar-footer">
       <ul class="redes-footer">
-        <li><a href="https://www.facebook.com/Efirsa/"><img src="img/fb-footerg.png"></a></li>
-        <li><a href="#"><img src="img/instagram.svg" style="width: 24px;" alt=""></a></li>
-        <li><a href="https://www.youtube.com/channel/UCAS0CzSP8m0o95ENQwm95PQ"><img src="img/yt-footerg.png"></a></li>
+        <li><a href="https://www.facebook.com/Efirsa/" target="_blank"><img src="img/fb-footerg.png"></a></li>
+        <li><a href="#" target="_blank"><img src="img/instagram.svg" style="width: 24px;" alt=""></a></li>
+        <li><a href="https://www.youtube.com/channel/UCAS0CzSP8m0o95ENQwm95PQ" target="_blank"><img src="img/yt-footerg.png"></a></li>
       </ul>
     </div>
     <div class=" col-sm-4 centrar-footer">
@@ -39,9 +39,9 @@
   <div class="container-footer-2">
     <div class="col-xs-4 centrar-footer">
       <ul class="redes-footer">
-        <li><a href="https://www.facebook.com/Efirsa/"><img src="img/fb-footerg.png"></a></li>
-        <li><a href="#"><img src="img/instagram.svg" style="width: 17px;" alt=""></a></li>
-        <li><a href="https://www.youtube.com/channel/UCAS0CzSP8m0o95ENQwm95PQ"><img src="img/yt-footerg.png"></a></li>
+        <li><a href="https://www.facebook.com/Efirsa/" target="_blank"><img src="img/fb-footerg.png"></a></li>
+        <li><a href="#" target="_blank"><img src="img/instagram.svg" style="width: 17px;" alt=""></a></li>
+        <li><a href="https://www.youtube.com/channel/UCAS0CzSP8m0o95ENQwm95PQ" target="_blank"><img src="img/yt-footerg.png"></a></li>
       </ul>
     </div>
     <div class="col-xs-8 centrar-footer">
