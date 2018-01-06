@@ -18,7 +18,6 @@
       </div>
       <div class="col-xs-12 col-sm-6" style="overflow: hidden; padding-left: 0px; padding-right: 0px;">
 
-
         <div class="form-container marginHtc">
           <form id="contact-form" action="#" method="POST" enctype="multipart/form-data">
                     <input type="hidden" name="_token" value="{{ csrf_token() }}"/>
@@ -429,8 +428,6 @@
                     <div class="nota"><span>Los campos marcados con * son obligatorios</span></div>
           </form>       
         </div>
-
-
 
       </div>
       <div class="col-xs-10 col-xs-offset-1 col-sm-offset-0 col-sm-6" style="padding-left: 24px; padding-top: 24px;">
