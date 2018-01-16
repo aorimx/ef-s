@@ -4,7 +4,7 @@
   <title>EFIRSA</title>
   <link rel="icon" type="image/x-icon" href="img/favicon.ico">
   <meta charset="utf-8" />
-  <meta name="description" content="Descripción EFIRSA">
+  <meta name="description" content="EFIRSA se especializa en todo tipo de ascensores y escaleras eléctricas desde hace más de 30 años. Ofreciendo soluciones innovadoras y ecológicamente eficientes; apoyando cada paso de nuestros clientes durante cada uno de sus proyectos; que parte desde el diseño, fabricación e instalación hasta el mantenimiento y modernización.">
   <meta name="keywords" content="Elevadores, Efirsa" />
   <meta name='designer' content='EFIRSA'>
   <meta name="title" content="EFIRSA">
