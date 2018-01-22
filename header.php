@@ -55,6 +55,19 @@
     <script src="js/html5shiv.js"></script>
     <script src="js/respond.js"></script>
   <![endif]-->
+
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-109327821-3"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){
+      dataLayer.push(arguments);
+    }
+    gtag('js', new Date());
+
+    gtag('config', 'UA-109327821-3');
+  </script>
+
 </head>
 <div class="loader"></div>
 <body itemscope itemtype="http://schema.org/WebPage" id="contenedor-principal">
