@@ -29,7 +29,9 @@
       <img src="img/landingAdicionales/aceraMovil.png" alt="">
     </div>
     <div class="escaleras-button">
-      <button>IR A LA PÁGINA DE EFIRSA</button>
+      <a href="https://efirsa.mx">
+        <button> IR A LA PÁGINA DE EFIRSA</button>
+      </a>
     </div>
   </div>
 <?php require 'footer.php';?>

@@ -112,7 +112,7 @@
           </div>
         </div>
         <div class="col-xs-6 col-sm-4 tRes">
-          <img class="img-full img-productos deploy product9" src="img/accesorios.png">
+          <img class="img-full img-productos deploy product9" src="img/accesorios2.png">
           <p class="title-productos deploy product9"><i class="icon fa fa-caret-right flag-icon9 flip-right" aria-hidden="true"></i>Accesorios</p>
           <div class="flag-text9 parrafo-deploy">
               <p>Encuentra todos los accesorios en nuestra tienda en línea</p>
@@ -232,7 +232,7 @@
       </div>
       <div class="items-responsive">
         <div class="col-xs-6 col-sm-4 tRes">
-          <img class="img-full img-productos deploy product9" src="img/accesorios.png">
+          <img class="img-full img-productos deploy product9" src="img/accesorios2.png">
           <p class="title-productos deploy product9"><i class="icon fa fa-caret-right flag-icon9 flip-right" aria-hidden="true"></i>Accesorios</p>
           <div class="flag-text9 parrafo-deploy">
               <p>Encuentra todos los accesorios en nuestra tienda en línea</p>
