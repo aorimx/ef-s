@@ -7,7 +7,7 @@
     </div>
     <div class="col-xs-12 col-sm-6 derecha-footer">
       <a class="hidden-xs" href="index.php"><img class="logo-movil-footer" src="img/logos/efirsaFooter.png"></a>
-      <p class="p-footer footer-fuente"><a  href="tel:14140202">Tel. 14140202</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a  href="tel:31441377">31441377</a></p>
+      <p class="p-footer footer-fuente"><a  href="tel:14040202">Tel. 14040202</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a  href="tel:31441377">31441377</a></p>
       <p class="p-footer footer-fuente"><a  href="tel:018001712297">01 800 171 2297</a><i class="i-footer">&nbsp;Lada sin costo</i></p>
       <p><a class="texto-verde enlaces-verdes footer-fuente" href="mailto:ventas@efirsa.mx">ventas@efirsa.mx</a></p>
       <p><a class="texto-verde enlaces-verdes area-ventas footer-fuente" href="#"><i>Contactar solo a área de ventas</i></a></p>
